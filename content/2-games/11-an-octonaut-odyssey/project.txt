@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: An Octonaut Odyssey
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Octo Studio
+
+----
+
+Brief: It's a game about an amnesiac octopus lost in strange planets.
+
+----
+
+Description: In this journey that mixes exploration, logic and platform sections, you are Octo, the amnesiac octopus. You’ll discover with him wild planets, inhabited by strange and evolutive flora and fauna. You’ll meet quirky characters, and gather robots to help Octo recover his capacities and repair his ship. You’ll learn to move around and to evolve in a new and chaotic universe, as well as to avoid the traps that stand in Octo’s way to desorient him.
+
+----
+
+Release-date: 2017-03-03
+
+----
+
+Os: windows, macos
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://anoctonautodyssey.com/
+
+----
+
+Steam: http://store.steampowered.com/app/566320/An_Octonaut_Odyssey/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20115.0
+
+----
+
+Tgi-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=dAnAuwoRoA0
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: octodyssey
+
+----
+
+Youtube: https://www.youtube.com/channel/UCPoO81P39sCzeOcoivTXlLg
+
+----
+
+Facebook: https://www.facebook.com/anoctonautodyssey

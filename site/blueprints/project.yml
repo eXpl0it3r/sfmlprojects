@@ -136,7 +136,7 @@ fields:
       custom_link_one: Custom Link 1
       custom_link_two: Custom Link 2
   brief_third:
-    label: Brief Thir Link
+    label: Brief Third Link
     type: select
     width: 1/3
     options:
