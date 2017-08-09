@@ -20,13 +20,13 @@
                         <?php if($subitem->title() == '----'): ?>
                         <li role="separator" class="divider"></li>
                         <?php else: ?>
-                        <li <?php if($subitem == $page): ?>class="active"<?php endif; ?>><a href="<?php echo $subitem->uri(); ?>"><?php echo $subitem->title(); ?></a></li>
+                        <li <?php if($subitem == $page): ?>class="active"<?php endif; ?>><a href="/<?php echo $subitem->uri(); ?>"><?php echo $subitem->title(); ?></a></li>
                         <?php endif; ?>
                         <?php endforeach; ?>
                     </ul>
                 </li>
                 <?php else: ?>
-                <li <?php if($item == $page): ?>class="active"<?php endif; ?>><a href="<?php echo $item->uri(); ?>"><?php echo $item->title(); ?></a></li>
+                <li <?php if($item == $page): ?>class="active"<?php endif; ?>><a href="/<?php echo $item->uri(); ?>"><?php echo $item->title(); ?></a></li>
                 <?php endif; ?>
                 <?php endforeach; ?>
             </ul>
