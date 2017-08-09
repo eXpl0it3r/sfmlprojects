@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: Selba Ward
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Hapaxia
+
+----
+
+Brief: Selba Ward is a collection of drawable C++ objects for use with SFML.
+
+----
+
+Description: Selba Ward can be built as a single library and then the objects can be included as required (as I use it myself) or the individual objects can be copied into your project and built along with it. The drawable objects are completely independant of each other. However, they will also require the very light Common.hpp header, along with any dependants (e.g. Bitmap Text requires Bitmap Font) or extras (e.g. Palette Enums can be useful with Console Screen)
+
+----
+
+Release-date: 
+
+----
+
+Os: windows, macos, linux, android, ios
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: 
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=19496.0
+
+----
+
+Tgi-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/Hapaxia/SelbaWard
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: github
+
+----
+
+Brief-second: sfml_forum
+
+----
+
+Brief-third: 
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=Yjs-oRhn2fE
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: Hapaxiation
+
+----
+
+Youtube: https://www.youtube.com/channel/UC2s-i85Jc8nyObC0q5uX5ow
+
+----
+
+Facebook: 

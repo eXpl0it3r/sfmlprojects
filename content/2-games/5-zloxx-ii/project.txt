@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: Zloxx II
+
+----
+
+Author-name: Jan Haller
+
+----
+
+Author-nick: Bromeon
+
+----
+
+Brief: Zloxx II is a 2D Jump'n'Run in which you control a little character called Zloxx.
+
+----
+
+Description: 
+
+Zloxx II is a 2D Jump'n'Run in which you control a little character called Zloxx. Your goal is to find your way through numerous levels, while taking up coins, power-ups, new weapons and special suits that help you in the battle with different enemies.
+
+The gameplay is easy to understand, the basic mechanisms are explained during playing. However, there are still enough things you have to find out by yourself. The game becomes more and more challenging after completing the first few levels.
+
+----
+
+Os: windows, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://www.bromeon.ch/games/zloxx/index.html
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=8403.0
+
+----
+
+Tgi-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: sfml_forum
+
+----
+
+Brief-third: 
+
+----
+
+Project-media: 
+
+----
+
+Title-img: zloxx-title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Release-date: 2012-07-01

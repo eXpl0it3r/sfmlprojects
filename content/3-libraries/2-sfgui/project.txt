@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: SFGUI
+
+----
+
+Author-name: Stefan Schindler
+
+----
+
+Author-nick: Tank
+
+----
+
+Brief: SFGUI is a GUI (Graphical User Interface) C++ library especially designed for programs and games that use SFML for rendering.
+
+----
+
+Description: The library has been designed with flexibility and performance in mind. Several features get you started really quick and make using the library easy: The automatic layout takes care of positioning and sizing widgets properly. Even if you have to deal with different screen resolutions, SFGUI will always try to pick the best layout.
+
+----
+
+Release-date: 
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://sfgui.sfml-dev.de
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=6112.0
+
+----
+
+Tgi-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/TankOs/SFGUI
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: github
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 

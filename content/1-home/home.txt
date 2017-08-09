@@ -1,0 +1,112 @@
+Title: Home
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Description: 
+
+----
+
+Brand-logo: logo.png
+
+----
+
+Brand-label: 
+
+----
+
+Content-title: What We Do
+
+----
+
+Content: 
+
+The goal is to provide a nice overview as well as archive projects built with SFML.
+
+Currently the website is still in development and most things are pretty static, but over time we'd like to include everyone on helping us build up the archive, so stay tuned!
+
+----
+
+Categories-title: Categories
+
+----
+
+Category-one-title: Games
+
+----
+
+Category-one-img: gamepad
+
+----
+
+Category-one: Take a look at all the games made with SFML.
+
+----
+
+Category-two-title: Libraries
+
+----
+
+Category-two-img: book
+
+----
+
+Category-two: If you want to go beyond SFML's capabilities, take a look at libraries which extend SFML.
+
+----
+
+Category-three-title: Tools
+
+----
+
+Category-three-img: wrench
+
+----
+
+Category-three: SFML is not limited to Games, check out what else has been created.
+
+----
+
+Twitter-title: Recent Tweets
+
+----
+
+Brand-text: Discover and talk about projects built with or around the (link: https://www.sfml-dev.org/ text: Simple and Fast Multimedia Library)!
+
+----
+
+Category-one-link: /games/
+
+----
+
+Category-two-link: /libraries/
+
+----
+
+Category-three-link: /tools/
+
+----
+
+Content-text: 
+
+The goal is to provide a nice overview as well as archive projects built with SFML.
+
+Currently the website is still in development and most things are pretty static, but over time we'd like to include everyone on helping us build up the archive, so stay tuned!

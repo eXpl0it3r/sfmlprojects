@@ -1,0 +1,23 @@
+title: Project List
+
+pages: true
+  template:
+    - project
+
+files: true
+  fields:
+    title:
+      label: Title
+      type: text
+    caption:
+      label: Caption
+      type: textarea
+
+fields:
+  title:
+    label: Title
+    type:  text
+  description:
+    label: Meta Description
+    type: textarea
+    buttons: false
