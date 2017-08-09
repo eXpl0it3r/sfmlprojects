@@ -7,6 +7,9 @@ files: true
     title:
       label: Title
       type: text
+    link:
+      label: Website
+      type: url
     caption:
       label: Caption
       type: textarea

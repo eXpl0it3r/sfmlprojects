@@ -5,7 +5,7 @@
     <meta name="author" content="Lukas Dürrenberger">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="/assets/images/logo.png">
-    <?php echo krb('assets/css/theme.css', 'css', 0.23, true, false, false); ?>
+    <?php echo krb('assets/css/theme.css', 'css', 0.24, true, false, false); ?>
 </head>
 <body class="<?php //page-{{ this.page.id }} layout-{{ this.layout.id }}?>">
 

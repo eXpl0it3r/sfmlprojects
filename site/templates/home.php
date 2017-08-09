@@ -17,7 +17,7 @@
     </div>
 </section>
 
-<?php snippet('content/logos', ['page' => $page]) ?>
+<?php snippet('content/featured', ['page' => $page]) ?>
 
 <br />
 

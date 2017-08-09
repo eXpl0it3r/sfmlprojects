@@ -151,7 +151,7 @@
     }
 }
 
-.logos {
+.featured {
     background: #f1f1f1;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -180,6 +180,24 @@
     }
     @media (max-width: 480px) {
         display: none;
+    }
+
+    img {
+        -webkit-filter: grayscale(100%);
+        -moz-filter: grayscale(100%);
+        -o-filter: grayscale(100%);
+        filter: grayscale(100%);
+        -webkit-transition: .4s ease-in-out;
+        -moz-transition: .4s ease-in-out;
+        -o-transition: .4s ease-in-out;
+        transition: .4s ease-in-out;
+
+        &:hover {
+            -webkit-filter: grayscale(0%);
+            -moz-filter: grayscale(0%);
+            -o-filter: grayscale(0%);
+            filter: grayscale(0%);
+        }
     }
 }
 
