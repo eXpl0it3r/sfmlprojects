@@ -14,7 +14,9 @@ Icon
 !/site/cache/index.html
 
 /assets/css/*.min.css
+/assets/css/*.min.css.version
 /assets/javascript/*.min.js
+/assets/javascript/*.min.js.version
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
