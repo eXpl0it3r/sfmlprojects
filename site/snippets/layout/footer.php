@@ -39,7 +39,9 @@ echo krb( array('assets/javascript/jquery.js',
                 'assets/vendor/flat-ui/js/flatui-radio.js',
                 'assets/vendor/flat-ui/js/jquery.tagsinput.js',
                 'assets/vendor/flat-ui/js/jquery.placeholder.js',
-                'assets/javascript/app.js'),
-                'js', 0.1, true, false, false); ?>
+                'assets/javascript/app.js',
+                'assets/javascript/piwik.js'),
+                'js', 0.2, true, false, false); ?>
+    <noscript><p><img src="//piwik.my-gate.net/piwik.php?idsite=8&rec=1" style="border:0;" alt="" /></p></noscript>
     </body>
 </html>
