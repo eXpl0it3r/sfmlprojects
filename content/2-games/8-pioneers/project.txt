@@ -50,7 +50,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=7980.0
 
 ----
 
-Tgi-source: https://forums.tigsource.com/index.php?topic=25699.0
+Tig-source: https://forums.tigsource.com/index.php?topic=25699.0
 
 ----
 

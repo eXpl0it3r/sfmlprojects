@@ -50,7 +50,7 @@ Sfml-forum:
 
 ----
 
-Tgi-source: https://forums.tigsource.com/index.php?topic=50838.0
+Tig-source: https://forums.tigsource.com/index.php?topic=50838.0
 
 ----
 
@@ -98,7 +98,7 @@ Brief-second: steam
 
 ----
 
-Brief-third: tgi_source
+Brief-third: tig_source
 
 ----
 

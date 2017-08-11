@@ -49,7 +49,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=21703.0
 
 ----
 
-Tgi-source: 
+Tig-source:
 
 ----
 

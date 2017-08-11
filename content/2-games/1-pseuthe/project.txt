@@ -26,7 +26,7 @@ Forum-thread: https://en.sfml-dev.org/forums/index.php?topic=18476.0
 
 ----
 
-Tgi-source: 
+Tig-source:
 
 ----
 

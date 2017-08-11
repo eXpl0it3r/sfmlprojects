@@ -42,7 +42,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=18062.0
 
 ----
 
-Tgi-source: https://forums.tigsource.com/index.php?topic=49336.0
+Tig-source: https://forums.tigsource.com/index.php?topic=49336.0
 
 ----
 
@@ -90,7 +90,7 @@ Brief-second: sfml_forum
 
 ----
 
-Brief-third: tgi_source
+Brief-third: tig_source
 
 ----
 

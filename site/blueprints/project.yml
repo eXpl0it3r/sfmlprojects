@@ -62,8 +62,8 @@ fields:
     label: SFML Forum
     type: url
     width: 1/2
-  tgi_source:
-    label: TGI Source Forum
+  tig_source:
+    label: TIGSource Forum
     type: url
     width: 1/2
   itch_io:
@@ -111,7 +111,7 @@ fields:
       offical_site: Official Website
       steam: Steam Store/Community
       sfml_forum: SFML Forum
-      tgi_source: TGI Source Forum
+      tig_source: TIGSource Forum
       itch_io: itch.io Page
       indie_db: IndieDB Page
       gamejolt: Game Jolt
@@ -127,7 +127,7 @@ fields:
       offical_site: Official Website
       steam: Steam Store/Community
       sfml_forum: SFML Forum
-      tgi_source: TGI Source Forum
+      tig_source: TIGSource Forum
       itch_io: itch.io Page
       indie_db: IndieDB Page
       gamejolt: Game Jolt
@@ -143,7 +143,7 @@ fields:
       offical_site: Official Website
       steam: Steam Store/Community
       sfml_forum: SFML Forum
-      tgi_source: TGI Source Forum
+      tig_source: TIGSource Forum
       itch_io: itch.io Page
       indie_db: IndieDB Page
       gamejolt: Game Jolt

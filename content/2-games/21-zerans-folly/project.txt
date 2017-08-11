@@ -46,7 +46,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=15600.0
 
 ----
 
-Tgi-source: 
+Tig-source:
 
 ----
 

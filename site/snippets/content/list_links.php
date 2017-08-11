@@ -2,7 +2,7 @@
     $labels = ['offical_site' => 'Website',
               'steam' => 'Steam',
               'sfml_forum' => 'SFML Forum',
-              'tgi_source' => 'TGISource',
+              'tig_source' => 'TIGSource',
               'itch_io' => 'itch.io',
               'indie_db' => 'IndieDB',
               'gamejolt' => 'Game Jolt',
