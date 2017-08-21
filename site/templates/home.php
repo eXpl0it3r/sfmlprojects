@@ -67,8 +67,11 @@
             <h4 class="headline"><span><?php echo $page->twitter_title(); ?></span></h4>
             <div class="recent-tweets">
                 <div class="container">
-                    <div class="col-sm-6 col-sm-offset-3">
-                        <?php snippet('content/tweets'); ?>
+                    <div class="col-sm-6">
+                        <?php snippet('content/tweets', ['twitter_handle' => 'sfmlprojects']); ?>
+                    </div>
+                    <div class="col-sm-6">
+                        <?php snippet('content/tweets', ['twitter_handle' => 'sfmldev']); ?>
                     </div>
                 </div>
             </div>
