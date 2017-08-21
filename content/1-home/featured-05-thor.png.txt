@@ -1,9 +1,0 @@
-Title: Thor
-
-----
-
-Caption: 
-
-----
-
-Link: http://www.bromeon.ch/libraries/thor/

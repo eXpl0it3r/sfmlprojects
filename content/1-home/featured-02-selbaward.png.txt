@@ -1,9 +1,0 @@
-Title: Selba Ward
-
-----
-
-Caption: 
-
-----
-
-Link: https://github.com/Hapaxia/SelbaWard
