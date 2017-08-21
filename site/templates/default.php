@@ -1,19 +1,16 @@
-<?php snippet('header') ?>
+<?php snippet('layout/header', ['page' => $page]) ?>
 
-  <main class="main" role="main">
-
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
-      
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
+<section id="layout-title">
+    <div class="container">
+        <h3><?php echo $page->title()->html(); ?></h3>
     </div>
+</section>
 
-  </main>
+<div class="container projects">
+    <?php echo $page->intro()->kirbytext(); ?>
+    <hr>
+    <?php echo $page->text()->kirbytext(); ?>
+</div>
+<br>
 
-<?php snippet('footer') ?>
+<?php snippet('layout/footer') ?>
