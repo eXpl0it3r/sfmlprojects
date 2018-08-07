@@ -1,9 +1,16 @@
 [submodule "kirby"]
 	path = kirby
 	url = https://github.com/getkirby/kirby.git
+	branch = master
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+	branch = master
 [submodule "site/plugins/krb"]
 	path = site/plugins/krb
 	url = https://github.com/eXpl0it3r/kirby-krb.git
+	branch = master
+[submodule "site/fields/previewfiles"]
+	path = site/fields/previewfiles
+	url = https://github.com/brocessing/kirby-previewfiles.git
+	branch = master
