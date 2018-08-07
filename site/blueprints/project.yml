@@ -12,6 +12,9 @@ files: true
       type: textarea
 
 fields:
+  previewfiles:
+    type: previewfiles
+
   project_infos:
     label: Project Infos
     type: headline

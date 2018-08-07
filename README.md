@@ -32,7 +32,8 @@ That's basically it. From here on you can now start with the project files itsel
 
 * [Kirby Core](https://github.com/getkirby/kirby)
 * [Kirby Panel](https://github.com/getkirby/panel)
-* [Plugin: KRB]()
+* [Plugin: KRB](https://github.com/eXpl0it3r/kirby-krb)
+* [Field: Previewfiles](https://github.com/brocessing/kirby-previewfiles)
 
 ### Front-end
 

@@ -1,6 +1,9 @@
 title: Page
 
 fields:
+  previewfiles:
+    type: previewfiles
+    
   title:
     label: Title
     type:  text
