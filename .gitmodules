@@ -7,7 +7,3 @@
 [submodule "site/plugins/krb"]
 	path = site/plugins/krb
 	url = https://github.com/eXpl0it3r/kirby-krb.git
-[submodule "content"]
-	path = content
-	branch = master
-	url = https://github.com/eXpl0it3r/sfmlprojects-content.git
