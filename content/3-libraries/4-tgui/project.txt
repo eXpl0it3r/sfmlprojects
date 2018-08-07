@@ -1,0 +1,147 @@
+Project-infos: 
+
+----
+
+Title: TGUI
+
+----
+
+Author-name: Bruno Van de Velde
+
+----
+
+Author-nick: texus
+
+----
+
+Brief: TGUI is an easy to use cross-platform c++ GUI library for SFML.
+
+----
+
+Description: 
+
+Texus' Graphical User Interface is easy to use, with only a few lines you can e.g. have a fully functional TextBox on your screen. The widgets can be created by just using colors or by using images, making the look very customizable.
+
+TGUI will work on all platforms that SFML supports. This means that you can use it on Windows, Linux, Mac OS X, FreeBSD and experimentally on Raspberry Pi, Android and iOS.
+
+The callback system was written specifically for TGUI and aims to be as easy as possible. You will not have to call std::bind yourself when passing parameters and you can leave parameters unbound which the widgets can use to pass information.
+
+----
+
+Release-date: 
+
+----
+
+Os: windows, macos, linux, android, ios, other
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: https://tgui.eu/
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=18901.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/texus/TGUI
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: TGUI Forum
+
+----
+
+Custom-link-one: https://forum.tgui.eu/
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: custom_link_one
+
+----
+
+Brief-third: github
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: TexusGUI
+
+----
+
+Youtube: 
+
+----
+
+Facebook: https://www.facebook.com/TexusGUI

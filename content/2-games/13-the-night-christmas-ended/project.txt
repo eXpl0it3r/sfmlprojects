@@ -1,0 +1,150 @@
+Project-infos: 
+
+----
+
+Title: The Night Christmas Ended
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Giant Goblin Studio
+
+----
+
+Brief: Team up with the world’s biggest goblin on his quest for gold and be a total Christmas bastard.
+
+----
+
+Description: 
+
+Get into the Christmas spirit with the world's biggest goblin in a blast from the past, 2D arcade shoot 'em up. Fight evil pet pinetrees from Siberia. Air-battle on a deadly pooping Rudolf. Float around in space and much much more crazy stuff.
+* Play through the whole adventure locally with a friend
+* Unique weapons and power-ups (like shots that grow and shrink)
+* The Giant Goblin will comment on if he thinks you control him well or badly
+* Shoot an innocent bird just because you are a jerk
+* Don't forget the deadly pooping reindeer
+The Night Christmas Ended is part of a great 2D arcade shoot 'em up tradition that goes back to the 80's. With respect for the traditions, the game adds new twists and turns to the familiar formula. The Night Christmas Ended aims to please veteran gamers of the genre, at the same time it also welcomes new gamers by making it easy to pick up and play. 
+So team up with the world's biggest goblin on his quest for gold and be a total Christmas bastard.
+
+----
+
+Release-date: 2016-12-04
+
+----
+
+Os: 
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://giantgoblinstudio.com/
+
+----
+
+Steam: http://store.steampowered.com/app/558440/The_Night_Christmas_Ended/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=21203.0
+
+----
+
+Tig-source:
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=TSXo1TX5v_s
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: Giant_Goblin_S
+
+----
+
+Youtube: https://www.youtube.com/channel/UCbL7VAZ52epfWI6PjzOLRVg
+
+----
+
+Facebook: 

@@ -1,0 +1,145 @@
+Project-infos: 
+
+----
+
+Title: Pioneers
+
+----
+
+Author-name: Eigen Lenk
+
+----
+
+Author-nick: eigen
+
+----
+
+Brief: Pioneers is a turn-based exploration/adventure RPG.
+
+----
+
+Description: 
+
+Pioneers is a turn-based exploration/adventure RPG where you lead a party of travellers in search of treasure-rich temples, new tribes and ways to go down in history - ways to go beyond the horizon. To achieve all that you complete quests building up your reputation to become a sought out explorer by kings and commoners alike.
+
+You set out promising your father to become someone, to make him proud but not all goes like planned in life, does it? On the way you'll meet many interesting characters, solve challenging puzzles and face all that nature has to offer, be it finding and collecting food and building a shelter to survive harsh winters or facing against a pack of wolves in the densest of forests.
+
+----
+
+Release-date: 2015-03-02
+
+----
+
+Os: windows, macos
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://www.pioneersgame.com/
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=7980.0
+
+----
+
+Tig-source: https://forums.tigsource.com/index.php?topic=25699.0
+
+----
+
+Itch-io: https://eigen.itch.io/pioneers
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: itch_io
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: pioneers-title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=OHzaIj1mdzA
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: pioneersgame
+
+----
+
+Youtube: https://www.youtube.com/channel/UCYp9l89mjwAIDnq5RzM6opQ
+
+----
+
+Facebook: 

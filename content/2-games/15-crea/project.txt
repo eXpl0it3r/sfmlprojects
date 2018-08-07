@@ -1,0 +1,145 @@
+Project-infos: 
+
+----
+
+Title: Crea
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Siege Games
+
+----
+
+Brief: Progress with every slain monster, learn skills through talents, craft items, and explore procedurally-generated worlds in this sandbox RPG!
+
+----
+
+Description: 
+
+Progress with every slain monster, learn over 80 skills through talents, craft hundreds of items, and explore vast procedurally-generated worlds in this ever-expanding sandbox RPG!
+
+Embark on an adventure with what little you have and discover what the world of Crea has to offer. Through each action, improve your talents and master many skills. Through each victory, grow in strength and shape yourself. Through each inquiry, unlock new items to craft and build. Through each expedition, explore new realms and uncover Crea’s lore.
+
+----
+
+Release-date: 2016-06-09
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://www.playcrea.com/
+
+----
+
+Steam: http://store.steampowered.com/app/280520/Crea/
+
+----
+
+Sfml-forum: 
+
+----
+
+Tig-source:
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: 
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=cmCcExZzzQw
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: SiegeGames
+
+----
+
+Youtube: https://www.youtube.com/channel/UCfnGphuQ2ZAtfSit8oFzyXA
+
+----
+
+Facebook: 

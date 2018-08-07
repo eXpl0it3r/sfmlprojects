@@ -1,0 +1,145 @@
+Project-infos: 
+
+----
+
+Title: tmxlite
+
+----
+
+Author-name: Matt Styles
+
+----
+
+Author-nick: fallahn
+
+----
+
+Brief: lightweight C++14 parser for Tiled tmx files
+
+----
+
+Description: 
+
+A lightweight C++14 parsing library for tmx map files created with the Tiled map editor. Requires no external linking, all dependencies are included. Supports tmx maps up to 0.18 with CSV, zlib and base64 compression. The parser is renderer agnostic, and is cross platform on Windows, linux and OS X. It has also been successfully built for Android too.
+
+As the library contains no specific rendering functions some example projects are included, along with the relevant CMake files. These are meant mostly for guidance and are not 100% optimised, but should get you off on the right foot when using libraries such as SFML or SDL2/OpenGL. Examples for any specific rendering library are welcome via a pull request.
+
+----
+
+Release-date: 2016-11-15
+
+----
+
+Os: windows, macos, linux, android, ios, other
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: https://trederia.blogspot.ch/
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: 
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/fallahn/tmxlite
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: github
+
+----
+
+Brief-second: offical_site
+
+----
+
+Brief-third: 
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 

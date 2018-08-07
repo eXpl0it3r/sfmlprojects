@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: This Grand Life
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: 
+
+----
+
+Brief: This Grand Life is a personal finance simulator where you create a character, manage their money and help them achieve their life goals.
+
+----
+
+Description: This Grand Life is a personal finance simulator where you create a character, manage their money and help them achieve their life goals. Cruise your way through life with a silver spoon, or struggle endlessly to find employment as a convicted felon. You cannot control your past, but you can change your future. What choices will you make?
+
+----
+
+Release-date: 2017-10-24
+
+----
+
+Os: windows
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://pokingwatergames.com/
+
+----
+
+Steam: http://store.steampowered.com/app/695600/This_Grand_Life/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=22654.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: steam
+
+----
+
+Brief-second: offical_site
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=3lfXpxK-j2s
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: https://twitter.com/ParsleyPWG
+
+----
+
+Youtube: https://www.youtube.com/user/PokingWaterGames
+
+----
+
+Facebook: 

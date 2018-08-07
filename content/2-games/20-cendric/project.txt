@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: Cendric
+
+----
+
+Author-name: Isa Roesch
+
+----
+
+Author-nick: Ironbell
+
+----
+
+Brief: Cendric is part top-down RPG and part puzzle platformer.
+
+----
+
+Description: Cendric is part top-down RPG and part puzzle platformer. Puzzles can be solved by using spells that modify the level (freeze water, push blocks). Spells can be learned by completing quests and reading scrolls. The game itself is rather hard, but there are no plans to lower the difficulty.
+
+----
+
+Release-date: 2018-03-02
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://cendric.ch/
+
+----
+
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=924976170
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=19740.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: http://www.indiedb.com/games/Cendric/
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/tizian/Cendric2
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: github
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=qZWzz8LhNoM
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: CendricGame
+
+----
+
+Youtube: https://www.youtube.com/channel/UCHgWYTNtoMeqFgvDUfh4ngQ
+
+----
+
+Facebook: 

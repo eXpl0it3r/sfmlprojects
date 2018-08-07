@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: Dispersio
+
+----
+
+Author-name: Alexander Fedosov
+
+----
+
+Author-nick: achpile
+
+----
+
+Brief: Dispersio is a retro-styled action platformer. As you progress through the game, you will have to use and combine special abilities.
+
+----
+
+Description: After a disastrous geological experiment, the Earth was ruptured into dozens of asteroids, some of which hold remnants of what humanity had left behind. Many space travelers explore these asteroids in search of treasures and ancient relics. It took approximately twenty years to gather information about the location of the mysterious ancient crystal, which will give arcane power to whoever first obtains it - and so our brave hero seizes the chance to go on a perilous adventure and be the one to unearth the crystal. Who knows where it will lead?
+
+----
+
+Release-date: 2016-12-02
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://achpile.tk/
+
+----
+
+Steam: http://store.steampowered.com/app/563180/Dispersio/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20444.0
+
+----
+
+Tig-source:
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=Jx254GyFb5I
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: achpile
+
+----
+
+Youtube: https://www.youtube.com/channel/UCXqbxzSEOVf_wOobA2iTghw
+
+----
+
+Facebook: 

@@ -1,0 +1,141 @@
+Project-infos: 
+
+----
+
+Title: Turnover
+
+----
+
+Author-name: Anthony Nichols
+
+----
+
+Author-nick: Long Division LLC
+
+----
+
+Brief: In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ.
+
+----
+
+Description: In a dystopian future, a powerful corporation hires a private security firm to execute a violent takeover of a competitor's HQ. Caught in the middle, brave office worker Clea attempts a stealthy escape.
+
+----
+
+Release-date: 2015-12-15
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: http://www.longdivisiondev.com/
+
+----
+
+Steam: http://store.steampowered.com/app/372250/Turnover/
+
+----
+
+Sfml-forum: 
+
+----
+
+Tig-source:
+
+----
+
+Itch-io: https://longdivisionllc.itch.io/turnover
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: itch_io
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=-gFu6sVjYg8
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: themaninthecape
+
+----
+
+Youtube: https://www.youtube.com/channel/UCvCMSRqYWLiynB5MHE5LcyQ
+
+----
+
+Facebook: https://www.facebook.com/turnoverstealth
