@@ -1,0 +1,151 @@
+Previewfiles: 
+
+----
+
+Project-infos: 
+
+----
+
+Title: Particle Editor
+
+----
+
+Author-name: Jakob Ahrneteg
+
+----
+
+Author-nick: Raven
+
+----
+
+Brief: Particle editor for SFML/Thor based applications
+
+----
+
+Description: 
+
+The editor covers most of the features provided by the particle module from Thor. There is also support for:
+
+* Save particle data to a json file
+* Open an existing json file with particle data
+* Change particle texture with file browsing
+
+----
+
+Release-date: 
+
+----
+
+Os: windows
+
+----
+
+Project-links: 
+
+----
+
+Offical-site: 
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=24403.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: https://github.com/Jakobzzz/ParticleEditor
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: github
+
+----
+
+Brief-second: sfml_forum
+
+----
+
+Brief-third: 
+
+----
+
+Project-media: 
+
+----
+
+Title-img: title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Project-social: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
