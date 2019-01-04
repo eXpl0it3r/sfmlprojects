@@ -1,10 +1,10 @@
 title: Project List
 
-pages: true
+pages:
   template:
     - project
 
-files: true
+files:
   fields:
     title:
       label: Title
