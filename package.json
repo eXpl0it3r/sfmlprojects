@@ -1,0 +1,48 @@
+{
+  "name": "sfmlprojects",
+  "version": "1.0.0",
+  "description": "SFML Projects wants to provide a platform to host, share and archive projects built with SFML",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "bootstrap": "^4.4.1",
+    "composer": "^4.1.0",
+    "designmodo-flat-ui-free": "^2.4.0",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.0",
+    "sass": "^1.24.0",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "css-loader": "^3.4.0",
+    "file-loader": "^5.0.2",
+    "node-sass": "^4.13.0",
+    "postcss-loader": "^3.0.0",
+    "precss": "^4.0.0",
+    "style-loader": "^1.1.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eXpl0it3r/sfmlprojects.git"
+  },
+  "keywords": [
+    "sfml",
+    "projects",
+    "games",
+    "libraries",
+    "tools",
+    "showcase"
+  ],
+  "author": "Lukas Dürrenberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eXpl0it3r/sfmlprojects/issues"
+  },
+  "homepage": "https://github.com/eXpl0it3r/sfmlprojects#readme"
+}

@@ -1,0 +1,111 @@
+title: Home
+pages: false
+preset: page
+files:
+  fields:
+    title:
+      label: Title
+      type: text
+    link:
+      label: Website
+      type: url
+    caption:
+      label: Caption
+      type: textarea
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  description:
+    label: Meta Description
+    type: textarea
+    buttons: false
+
+  brand_logo:
+    label: Brand Logo
+    type:  image
+    width: 1/2
+  brand_text:
+    label: Brand Text
+    type:  textarea
+    width: 1/2
+
+  content_title:
+    label: Content Title
+    type:  text
+  content_text:
+    label: Content
+    type: textarea
+
+  categories_title:
+    label: Categories Title
+    type: text
+
+  category_one_title:
+    label: Category Title
+    type: text
+    width: 1/4
+  category_one_link:
+      label: Category Link
+      type: text
+      width: 1/4
+  category_one_img:
+    label: Category Image
+    type: select
+    width: 1/4
+    options:
+      gamepad: Gamepad
+      book: Book
+      wrench: Wrench
+  category_one:
+    label: Category Text
+    type: textarea
+    width: 1/4
+
+  category_two_title:
+    label: Category Title
+    type: text
+    width: 1/4
+  category_two_link:
+      label: Category Link
+      type: text
+      width: 1/4
+  category_two_img:
+    label: Category Image
+    type: select
+    width: 1/4
+    options:
+      gamepad: Gamepad
+      book: Book
+      wrench: Wrench
+  category_two:
+    label: Category Text
+    type: textarea
+    width: 1/4
+
+  category_three_title:
+    label: Category Title
+    type: text
+    width: 1/4
+  category_three_link:
+      label: Category Link
+      type: text
+      width: 1/4
+  category_three_img:
+    label: Category Image
+    type: select
+    width: 1/4
+    options:
+      gamepad: Gamepad
+      book: Book
+      wrench: Wrench
+  category_three:
+    label: Category Text
+    type: textarea
+    width: 1/4
+
+  twitter_title:
+    label: Twitter Title
+    type: text

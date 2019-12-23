@@ -3,40 +3,57 @@
 
 Icon
 .DS_Store
-
-# IDE
-# ----
-.idea/*
-.vscode/*
+.vs/
 
 # Temporary files
 # ---------------
 
-/thumbs/*
-!/thumbs/index.html
+/www/media/*
+!/www/media/index.html
 
-/site/cache/*
-!/site/cache/index.html
+# Composer files
+# --------------
 
-/assets/css/*.min.css
-/assets/css/*.min.css.version
-/assets/javascript/*.min.js
-/assets/javascript/*.min.js.version
+/www/kirby/*
+/www/kirby/site/plugins/*
+/www/vendor/*
+
+# node_modules files
+# ------------------
+
+/node_modules/*
+
+# Generated asset files
+# ---------------------
+
+/www/assets/*
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
-# Kirby accounts
+# Cache Files
 # ---------------
 
-/site/accounts/*
-!/site/accounts/index.html
-/site/config/*
-!/site/config/index.html
+/www/site/cache/*
+!/www/site/cache/index.html
 
-# Avatars
+# Accounts
 # ---------------
 
-/assets/avatars/*
-!/assets/avatars/index.html
+/www/site/accounts/*
+!/www/site/accounts/index.html
+
+# Sessions
+# ---------------
+
+/www/site/sessions/*
+!/www/site/sessions/index.html
+
+# Config
+#----------------
+/www/site/config/config.php
+
+# License
+# ---------------
+/www/site/config/.license
