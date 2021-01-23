@@ -1,0 +1,27 @@
+title: Editor
+description: Manages Project Pages
+permissions:
+  site: false
+  users: false
+  access: false
+  user:
+    *: true
+    changeRole: false
+    create: false
+  languages: false
+  files: true
+  pages: true
+fields:
+  website:
+    label: Website
+    type: url
+  twitter:
+    label: Twitter
+    type: text
+    icon: twitter
+    placeholder: @username
+  instagram:
+    label: Instagram
+    type: text
+    icon: instagram
+    placeholder: username
