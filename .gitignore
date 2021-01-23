@@ -4,39 +4,50 @@
 Icon
 .DS_Store
 
-# IDE
-# ----
-.idea/*
-.vscode/*
-
 # Temporary files
 # ---------------
 
-/thumbs/*
-!/thumbs/index.html
-
-/site/cache/*
-!/site/cache/index.html
+/media/*
+!/media/index.html
 
 /assets/css/*.min.css
 /assets/css/*.min.css.version
 /assets/javascript/*.min.js
 /assets/javascript/*.min.js.version
 
+# Lock files
+# ---------------
+.lock
+
+# Editors
+# ---------------
+*.sublime-project
+*.sublime-workspace
+/.vscode
+/.idea
+
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
-# Kirby accounts
+# Cache Files
+# ---------------
+
+/site/cache/*
+!/site/cache/index.html
+
+# Accounts
 # ---------------
 
 /site/accounts/*
 !/site/accounts/index.html
-/site/config/*
-!/site/config/index.html
 
-# Avatars
+# Sessions
 # ---------------
 
-/assets/avatars/*
-!/assets/avatars/index.html
+/site/sessions/*
+!/site/sessions/index.html
+
+# License
+# ---------------
+/site/config/.license

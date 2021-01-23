@@ -1,0 +1,4 @@
+[submodule "kirby"]
+	path = kirby
+	url = https://github.com/getkirby/kirby.git
+	branch = master
