@@ -1,0 +1,99 @@
+Title: Home
+
+----
+
+Brand-title: SFML Projects
+
+----
+
+Brand-logo:
+
+- logo.png
+
+----
+
+Brand-text: Discover and talk about projects built with or around the (link: https://www.sfml-dev.org/ text: Simple and Fast Multimedia Library)!
+
+----
+
+Content-title: What We Do
+
+----
+
+Content-text:
+
+The goal is to provide a nice overview as well as archive projects built with SFML.
+
+Currently the website is still in development and most things are pretty static, but over time we'd like to include everyone on helping us build up the archive, so stay tuned!
+
+----
+
+Categories-title: Categories
+
+----
+
+Category-one-title: Games
+
+----
+
+Category-one-link: /games/
+
+----
+
+Category-one-img: gamepad
+
+----
+
+Category-one: Take a look at all the games made with SFML.
+
+----
+
+Category-two-title: Libraries
+
+----
+
+Category-two-link: /libraries/
+
+----
+
+Category-two-img: book
+
+----
+
+Category-two: If you want to go beyond SFML's capabilities, take a look at libraries which extend SFML.
+
+----
+
+Category-three-title: Tools
+
+----
+
+Category-three-link: /tools/
+
+----
+
+Category-three-img: wrench
+
+----
+
+Category-three: SFML is not limited to Games, check out what else has been created.
+
+----
+
+Twitter-title: Recent Tweets
+
+----
+
+Seotitle: 
+
+----
+
+Decsription: 
+
+----
+
+Content:
+
+The goal is to provide a nice overview as well as archive projects built with SFML.
+
+Currently the website is still in development and most things are pretty static, but over time we'd like to include everyone on helping us build up the archive, so stay tuned!

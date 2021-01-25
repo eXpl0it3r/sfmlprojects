@@ -1,0 +1,46 @@
+title: Site
+tabs:
+  content:
+    label: Content
+    icon: page
+    sections:
+      published:
+        headline: Public Pages
+        type: pages
+        templates:
+          - home
+          - default
+          - list
+        create:
+          - list
+          - default
+        status: listed
+      drafts:
+        headline: Draft Pages
+        type: pages
+        tempaltes:
+          - default
+          - list
+        status: draft
+      static:
+        headline: Static Pages
+        type: pages
+        templates:
+          - error
+  settings:
+    label: SEO & Settings
+    icon: settings
+    sections:
+      info:
+        headline: Site Information
+        type: fields
+        fields:
+          description:
+            label: Site Description
+            type: textarea
+          author:
+            label: Site Author
+            type: text
+          footer:
+            label: Footer Information
+            type: textarea

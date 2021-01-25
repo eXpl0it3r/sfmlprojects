@@ -11,12 +11,12 @@
         </div>
         <div class="collapse navbar-collapse navbar-main-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <?php foreach($pages->visible() as $item): ?>
+                <?php foreach($pages->listed() as $item): ?>
                 <?php if(false && $item->hasChildren()): ?>
                 <li class="dropdown {% if item.isChildActive %}active{% endif %}">
                     <a href="<?php echo $item->uri(); ?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?php echo $item->title(); ?> <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <?php foreach($item->children()->visible() as $subitem): ?>
+                        <?php foreach($item->children()->listed() as $subitem): ?>
                         <?php if($subitem->title() == '----'): ?>
                         <li role="separator" class="divider"></li>
                         <?php else: ?>

@@ -1,12 +1,16 @@
-Title: Kirby Starterkit
+Title: SFML Projects
 
 ----
 
-Author: Bastian Allgeier GmbH
+Description: Discover and talk about projects built with or around the Simple and Fast Multimedia Library!
 
 ----
 
-Description: This is Kirby's Starterkit.
+Author: Lukas Dürrenberger
+
+----
+
+Footer: © 2017–(date: Year) (link: https://sfmlprojects.org text: SFML Projects)
 
 ----
 

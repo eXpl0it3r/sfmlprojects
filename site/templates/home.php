@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
-                <h3>SFML Projects</h3>
+                <h3><?php echo $page->brand_title()->kirbytextinline(); ?></h3>
                 <?php echo $page->brand_text()->kirbytext(); ?>
                 <img class="img-responsive" src="<?php echo $page->brand_logo()->toFile()->url(); ?>" alt="Logo">
             </div>

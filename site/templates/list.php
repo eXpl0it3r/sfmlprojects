@@ -13,7 +13,7 @@
     <?php
         $columns = 1;
         $counter = 1;
-        $projects = $page->children()->filterBy('template', 'project')->visible()->sortBy('release_date', 'desc');
+        $projects = $page->children()->filterBy('template', 'project')->listed()->sortBy('release_date', 'desc');
     ?>
     <?php foreach($projects as $project): ?>
         <?php if($columns == 1): ?><div class="row"><?php endif; ?>

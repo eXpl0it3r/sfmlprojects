@@ -1,0 +1,111 @@
+title: Home
+tabs:
+  content:
+    label: Content
+    icon: page
+    fields:
+      brand_title:
+        label: Brand Title
+        type:  text
+      brand_logo:
+        label: Brand Logo
+        type: files
+        multiple: false
+        query: page.images
+        layout: cards
+        width: 1/4
+      brand_text:
+        label: Brand Text
+        type: textarea
+        width: 3/4
+
+      content_title:
+        label: Content Title
+        type:  text
+      content_text:
+        label: Content
+        type: textarea
+
+      categories_title:
+        label: Categories Title
+        type: text
+
+      category_one_title:
+        label: Category Title
+        type: text
+        width: 1/4
+      category_one_link:
+          label: Category Link
+          type: text
+          width: 1/4
+      category_one_img:
+        label: Category Image
+        type: select
+        width: 1/4
+        options:
+          gamepad: Gamepad
+          book: Book
+          wrench: Wrench
+      category_one:
+        label: Category Text
+        type: textarea
+        width: 1/4
+
+      category_two_title:
+        label: Category Title
+        type: text
+        width: 1/4
+      category_two_link:
+          label: Category Link
+          type: text
+          width: 1/4
+      category_two_img:
+        label: Category Image
+        type: select
+        width: 1/4
+        options:
+          gamepad: Gamepad
+          book: Book
+          wrench: Wrench
+      category_two:
+        label: Category Text
+        type: textarea
+        width: 1/4
+
+      category_three_title:
+        label: Category Title
+        type: text
+        width: 1/4
+      category_three_link:
+          label: Category Link
+          type: text
+          width: 1/4
+      category_three_img:
+        label: Category Image
+        type: select
+        width: 1/4
+        options:
+          gamepad: Gamepad
+          book: Book
+          wrench: Wrench
+      category_three:
+        label: Category Text
+        type: textarea
+        width: 1/4
+
+      twitter_title:
+        label: Twitter Title
+        type: text
+  seo:
+    labe: SEO
+    icon: search
+    fields:
+      seo_title:
+        label: SEO Title
+        type: text
+      seo_description:
+        label: SEO Description
+        type: textarea
+        minlength: 50
+        maxlength: 160
+        buttons: false
