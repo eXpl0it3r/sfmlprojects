@@ -36,7 +36,7 @@ Category-one-title: Games
 
 ----
 
-Category-one-link: /games/
+Category-one-link: /games
 
 ----
 
@@ -52,7 +52,7 @@ Category-two-title: Libraries
 
 ----
 
-Category-two-link: /libraries/
+Category-two-link: /libraries
 
 ----
 
@@ -68,7 +68,7 @@ Category-three-title: Tools
 
 ----
 
-Category-three-link: /tools/
+Category-three-link: /tools
 
 ----
 
@@ -81,6 +81,14 @@ Category-three: SFML is not limited to Games, check out what else has been creat
 ----
 
 Twitter-title: Recent Tweets
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
 
 ----
 

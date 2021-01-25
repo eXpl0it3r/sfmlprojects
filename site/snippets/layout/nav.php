@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="<?php echo $pages->find('home')->uri(); ?>">SFML Projects</a>
+            <a class="navbar-brand" href="/<?php echo $pages->find('home')->uri(); ?>">SFML Projects</a>
         </div>
         <div class="collapse navbar-collapse navbar-main-collapse">
             <ul class="nav navbar-nav navbar-right">

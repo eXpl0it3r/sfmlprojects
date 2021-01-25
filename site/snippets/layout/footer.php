@@ -4,7 +4,7 @@
             <nav class="pull-left">
                 <ul>
                     <?php foreach($pages->listed() as $item): ?>
-                        <li <?php if($item == $page): ?>class="active"<?php endif; ?>><a href="<?php echo $item->uri(); ?>"><?php echo $item->title(); ?></a></li>
+                        <li <?php if($item == $page): ?>class="active"<?php endif; ?>><a href="/<?php echo $item->uri(); ?>"><?php echo $item->title(); ?></a></li>
                     <?php endforeach; ?>
                 </ul>
             </nav>
