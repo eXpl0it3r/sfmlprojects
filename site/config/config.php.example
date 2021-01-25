@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'debug' => false,
+    'cache' => [
+        'page' => [
+            'active' => true
+        ]
+    ],
+];
