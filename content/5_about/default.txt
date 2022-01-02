@@ -2,7 +2,11 @@ Title: About
 
 ----
 
-Text: 
+Intro: While the SFML forum provides a section for (link: https://en.sfml-dev.org/forums/index.php?board=10.0 text: projects), it happens too often that nice projects get lost in the depth of that sub-forum or that the archive with the game gets deleted. With the SFML Projects website we want to provide a platform to host, share and archive projects that were made with or for (link: http://www.sfml-dev.org/ text: SFML).
+
+----
+
+Text:
 
 ### Contributions
 
@@ -16,17 +20,21 @@ If any of this sounds interesting to you, don't hesitate to get in touch!
 ### Contact
 
 Twitter: (link: https://twitter.com/sfmlprojects text: @sfmlprojects)
-IRC: (link: https://chat.sfml-dev.org/?channel=#sfmlprojects text: #sfmlprojects on irc.sfml-dev.org)
-E-Mail: admin＠sfmlprojects.org
+Discord: (link: https://discord.gg/nr4X7Fh text: Official SFML Discord Server)
+Email: admin＠sfmlprojects.org
 GitHub: (link: https://github.com/eXpl0it3r/sfmlprojects text: https://github.com/eXpl0it3r/sfmlprojects)
 
 ----
 
-Intro: While the SFML forum provides a section for (link: https://en.sfml-dev.org/forums/index.php?board=10.0 text: projects), it happens too often that nice projects get lost in the depth of that sub-forum or that the archive with the game gets deleted. With the SFML Projects website we want to provide a platform to host, share and archive projects that were made with or for (link: http://www.sfml-dev.org/ text: SFML).
+Seo-title: 
 
 ----
 
-Contactoptions: 
+Seo-description: 
+
+----
+
+Contactoptions:
 
 - 
   title: Contact
