@@ -24,7 +24,7 @@ This philosophy of emergent complexity is applied extensively throughout the des
 
 ----
 
-Release-date: 
+Publish-date: 
 
 ----
 

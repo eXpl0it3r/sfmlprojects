@@ -10,15 +10,19 @@ Author-nick: eigenbom
 
 ----
 
-Brief: Moonman is a procedurally-generated adventure game!
+Brief: MoonQuest is a procedurally-generated adventure game!
 
 ----
 
-Description: Moonman is a procedurally-generated adventure game! It is set on a nocturnal planet orbited by many different moons. Every new game generates a unique alien world, containing towns, forests, tombs, islands, and strange landscapes. Your goal is to build a giant star-machine, using moon fragments that you find throughout the world. The fragments may have been hidden in caves or tombs, ingested by large creatures, or hoarded by reclusive creatures. Moonman blends the short, rogue-like gameplay of games like Spelunky and Binding of Isaac, with the mining and crafting gameplay of Terraria.
+Description: MoonQuest is a procedurally-generated adventure game. Each game generates a new world to explore with wild forests, giant mountains and ancient ruins. Harvest resources, find treasure, and forge the weapons that will help you on your journey.
 
 ----
 
-Release-date: 
+Publish-date: 2020-02-26
+
+----
+
+Update-date: 2020-03-25
 
 ----
 
@@ -29,6 +33,18 @@ Os: windows, macos, linux
 Sites:
 
 - 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/511540/MoonQuest/
+- 
+  type: itch
+  url: https://eigenbom.itch.io/moonquest
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=17250.0
+  featured: 'true'
+- 
   type: official
   url: https://twitter.com/playmoonquest
   featured: 'true'
@@ -36,11 +52,6 @@ Sites:
   type: tigsource
   url: >
     https://forums.tigsource.com/index.php?topic=21997.0
-  featured: 'true'
-- 
-  type: sfml
-  url: >
-    https://en.sfml-dev.org/forums/index.php?topic=17250.0
   featured: 'true'
 - 
   type: kickstarter

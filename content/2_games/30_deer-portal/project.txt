@@ -18,11 +18,15 @@ Description: A hybrid of board and card game driven by the four classical elemen
 
 ----
 
-Release-date: 
+Publish-date: 2016-06-05
 
 ----
 
-Os: windows, linux
+Update-date: 2019-10-20
+
+----
+
+Os: windows, linux, macos
 
 ----
 

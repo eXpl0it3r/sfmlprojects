@@ -18,7 +18,11 @@ Description: Carefully hand drawn, DoodleBob is your very own virtual pet. Care 
 
 ----
 
-Release-date: SunSun.FebFeb.2017201720172017
+Publish-date: 2017-02-12
+
+----
+
+Update-date: 2019-06-02
 
 ----
 
@@ -29,16 +33,16 @@ Os: windows, linux
 Sites:
 
 - 
-  type: gamejolt
-  url: >
-    https://gamejolt.com/games/doodlebob/256272
-- 
   type: itch
   url: https://fallahn.itch.io/doodlebob
 - 
   type: sfml
   url: >
     https://en.sfml-dev.org/forums/index.php?topic=21503.0
+- 
+  type: gamejolt
+  url: >
+    https://gamejolt.com/games/doodlebob/256272
 - 
   type: official
   url: https://trederia.blogspot.ch/

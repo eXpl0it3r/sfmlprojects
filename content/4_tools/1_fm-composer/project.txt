@@ -18,7 +18,7 @@ Description: FM Composer is a free and open-source music software, providing a t
 
 ----
 
-Release-date: 
+Publish-date: 
 
 ----
 

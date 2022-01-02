@@ -27,24 +27,24 @@ So team up with the world's biggest goblin on his quest for gold and be a total 
 
 ----
 
-Release-date: SunSun.DecDec.2016201620162016
+Publish-date: 2016-12-04
 
 ----
 
-Os: 
+Update-date: 
+
+----
+
+Os: windows
 
 ----
 
 Sites:
 
 - 
-  type: official
-  url: http://giantgoblinstudio.com/
-  featured: 'true'
-- 
   type: steam
   url: >
-    http://store.steampowered.com/app/558440/The_Night_Christmas_Ended/
+    https://store.steampowered.com/app/558440/The_Night_Christmas_Ended/
   featured: 'true'
 - 
   type: sfml

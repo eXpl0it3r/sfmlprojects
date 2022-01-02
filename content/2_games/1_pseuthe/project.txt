@@ -18,7 +18,11 @@ Description: Take on the role of a proterozoic plankton with the sole aim of sur
 
 ----
 
-Release-date: 
+Publish-date: 2015-07-14
+
+----
+
+Update-date: 2017-03-15
 
 ----
 
@@ -29,8 +33,12 @@ Os: windows, macos, linux
 Sites:
 
 - 
-  type: gamejolt
-  url: http://gamejolt.com/games/pseuthe/256275
+  type: itch
+  url: https://fallahn.itch.io/pseuthe
+  featured: 'false'
+- 
+  type: github
+  url: https://github.com/fallahn/pseuthe
   featured: 'true'
 - 
   type: sfml
@@ -38,17 +46,14 @@ Sites:
     https://en.sfml-dev.org/forums/index.php?topic=18476.0
   featured: 'true'
 - 
-  type: github
-  url: https://github.com/fallahn/pseuthe
-  featured: 'true'
-- 
   type: official
   url: https://trederia.blogspot.ch/
   featured: 'false'
 - 
-  type: itch
-  url: https://fallahn.itch.io/pseuthe
-  featured: 'false'
+  type: gamejolt
+  url: >
+    https://gamejolt.com/games/pseuthe/256275
+  featured: 'true'
 
 ----
 

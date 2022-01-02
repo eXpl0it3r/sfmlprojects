@@ -18,7 +18,11 @@ Description: In retaliation for using his roof as a city lookout point, The Man 
 
 ----
 
-Release-date: TueTue.OctOct.2017201720172017
+Publish-date: 2017-10-17
+
+----
+
+Update-date: 
 
 ----
 

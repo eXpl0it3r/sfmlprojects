@@ -18,7 +18,11 @@ Description: Kronos it's an Action, RPG, Puzzle, Roguelike game with lots of com
 
 ----
 
-Release-date: FriFri.FebFeb.2017201720172017
+Publish-date: 2017-02-03
+
+----
+
+Update-date: 2018-03-29
 
 ----
 
@@ -29,13 +33,13 @@ Os: windows
 Sites:
 
 - 
-  type: official
-  url: http://www.uroborostudio.com/
-  featured: 'true'
-- 
   type: steam
   url: >
     http://store.steampowered.com/app/562090/Kronos/
+  featured: 'true'
+- 
+  type: official
+  url: https://www.uroborostudio.com/
   featured: 'true'
 - 
   type: sfml

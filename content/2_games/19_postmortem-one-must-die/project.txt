@@ -21,7 +21,11 @@ Think The Walking Dead meets Home and The Last Express, with a dash of To The Mo
 
 ----
 
-Release-date: ThuThu.AugAug.2013201320132013
+Publish-date: 2013-08-15
+
+----
+
+Update-date: 2021-07-21
 
 ----
 

@@ -18,7 +18,11 @@ Description: Castle Clamber is an arcade inspired action platformer for one or t
 
 ----
 
-Release-date: ThuThu.AprApr.2018201820182018
+Publish-date: 2018-04-12
+
+----
+
+Update-date: 2020-05-15
 
 ----
 

@@ -22,7 +22,11 @@ Embark on an adventure with what little you have and discover what the world of 
 
 ----
 
-Release-date: ThuThu.JunJun.2016201620162016
+Publish-date: 2016-06-09
+
+----
+
+Update-date: 2021-11-18
 
 ----
 
@@ -34,12 +38,12 @@ Sites:
 
 - 
   type: official
-  url: http://www.playcrea.com/
+  url: https://www.playcrea.com/
   featured: 'true'
 - 
   type: steam
   url: >
-    http://store.steampowered.com/app/280520/Crea/
+    https://store.steampowered.com/app/280520/Crea/
   featured: 'true'
 
 ----

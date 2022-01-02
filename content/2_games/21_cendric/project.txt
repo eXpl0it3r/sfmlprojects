@@ -18,7 +18,11 @@ Description: Cendric is part top-down RPG and part puzzle platformer. Puzzles ca
 
 ----
 
-Release-date: FriFri.MarMar.2018201820182018
+Publish-date: 2018-09-02
+
+----
+
+Update-date: 2020-03-17
 
 ----
 
@@ -29,19 +33,22 @@ Os: windows, macos, linux
 Sites:
 
 - 
-  type: official
-  url: http://cendric.ch/
-- 
   type: steam
   url: >
-    https://steamcommunity.com/sharedfiles/filedetails/?id=924976170
+    https://store.steampowered.com/app/681460/Cendric/
+- 
+  type: itch
+  url: https://ironbell.itch.io/cendric
 - 
   type: github
   url: >
     https://en.sfml-dev.org/forums/index.php?topic=19740.0
 - 
+  type: official
+  url: http://cendric.ch/
+- 
   type: indiedb
-  url: http://www.indiedb.com/games/Cendric/
+  url: https://www.indiedb.com/games/Cendric/
 
 ----
 

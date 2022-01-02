@@ -18,30 +18,35 @@ Description: Witch Blast is a free roguelite dungeon crawl shooter heavily inspi
 
 ----
 
-Release-date: 
+Publish-date: 2014-04-17
 
 ----
 
-Os: windows, macos, linux
+Update-date: 2015-10-29
+
+----
+
+Os: windows, linux
 
 ----
 
 Sites:
 
 - 
-  type: sfml
+  type: indiedb
   url: >
-    https://en.sfml-dev.org/forums/index.php?topic=14965.0
-  featured: 'true'
+    https://www.indiedb.com/games/witch-blast
+  featured: 'false'
 - 
   type: github
   url: >
     https://github.com/Cirrus-Minor/witchblast
   featured: 'true'
 - 
-  type: indiedb
-  url: http://www.indiedb.com/games/witch-blast
-  featured: 'false'
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=14965.0
+  featured: 'true'
 
 ----
 

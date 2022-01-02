@@ -22,7 +22,11 @@ These minimalist controls open the door to challenging, kinetic level design, wi
 
 ----
 
-Release-date: WedWed.AprApr.2018201820182018
+Publish-date: 2018-05-02
+
+----
+
+Update-date: 
 
 ----
 
@@ -37,7 +41,8 @@ Sites:
   url: https://ild-games.com/squatbot/
 - 
   type: google
-  url: 'https://play.google.com/store/apps/details?id=com.ildgames.squatbot&hl=en_US'
+  url: >
+    https://play.google.com/store/apps/details?id=com.ildgames.squatbot
 - 
   type: apple
   url: >

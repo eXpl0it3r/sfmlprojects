@@ -18,7 +18,11 @@ Description: Dare through the creepy corridors of the mazes, but keep your guard
 
 ----
 
-Release-date: 
+Publish-date: 2014-09-06
+
+----
+
+Update-date: 
 
 ----
 
@@ -35,7 +39,8 @@ Sites:
   featured: 'true'
 - 
   type: official
-  url: http://www.minimal-studio.at/
+  url: >
+    https://www.minimal-studio.at/index.php/games/maze-escape
   featured: 'false'
 - 
   type: sfml
@@ -44,7 +49,8 @@ Sites:
   featured: 'true'
 - 
   type: indiedb
-  url: http://www.indiedb.com/games/maze-escape
+  url: >
+    https://www.indiedb.com/games/maze-escape
   featured: 'true'
 
 ----

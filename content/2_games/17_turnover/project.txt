@@ -18,7 +18,11 @@ Description: In a dystopian future, a powerful corporation hires a private secur
 
 ----
 
-Release-date: TueTue.DecDec.2015201520152015
+Publish-date: 2015-12-15
+
+----
+
+Update-date: 2018-01-29
 
 ----
 
@@ -29,13 +33,9 @@ Os: windows, macos, linux
 Sites:
 
 - 
-  type: official
-  url: http://www.longdivisiondev.com/
-  featured: 'true'
-- 
   type: steam
   url: >
-    http://store.steampowered.com/app/372250/Turnover/
+    https://store.steampowered.com/app/372250/Turnover/
   featured: 'true'
 - 
   type: itch

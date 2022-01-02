@@ -18,7 +18,11 @@ Description: After a disastrous geological experiment, the Earth was ruptured in
 
 ----
 
-Release-date: FriFri.DecDec.2016201620162016
+Publish-date: 2016-12-02
+
+----
+
+Update-date: 2020-12-31
 
 ----
 
@@ -29,13 +33,13 @@ Os: windows, macos, linux
 Sites:
 
 - 
-  type: official
-  url: http://achpile.tk/
-  featured: 'true'
-- 
   type: steam
   url: >
-    http://store.steampowered.com/app/563180/Dispersio/
+    https://store.steampowered.com/app/563180/Dispersio/
+  featured: 'true'
+- 
+  type: official
+  url: http://achpile.tk/dispersio.php
   featured: 'true'
 - 
   type: sfml

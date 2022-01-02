@@ -18,7 +18,11 @@ Description: Zeran's Folly is a story-driven action-adventure with fluid melee c
 
 ----
 
-Release-date: FriFri.OctOct.2017201720172017
+Publish-date: 2017-10-06
+
+----
+
+Update-date: 2020-02-16
 
 ----
 
@@ -30,11 +34,11 @@ Sites:
 
 - 
   type: official
-  url: http://zeransfolly.com/
+  url: http://myroidtypecomics.com/zeransfolly/
 - 
   type: steam
   url: >
-    http://store.steampowered.com/app/665030/Zerans_Folly/
+    https://store.steampowered.com/app/665030/Zerans_Folly/
 - 
   type: sfml
   url: >
@@ -42,7 +46,7 @@ Sites:
 - 
   type: indiedb
   url: >
-    http://www.indiedb.com/games/zerans-folly
+    https://www.indiedb.com/games/zerans-folly
 
 ----
 

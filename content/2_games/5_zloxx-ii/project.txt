@@ -22,7 +22,11 @@ The gameplay is easy to understand, the basic mechanisms are explained during pl
 
 ----
 
-Release-date: SunSun.JulJul.2012201220122012
+Publish-date: 2012-07-01
+
+----
+
+Update-date: 2015-03-28
 
 ----
 
@@ -35,7 +39,7 @@ Sites:
 - 
   type: official
   url: >
-    http://www.bromeon.ch/games/zloxx/index.html
+    https://bromeon.ch/games/zloxx/index.html
   featured: 'true'
 - 
   type: sfml

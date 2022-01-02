@@ -21,7 +21,11 @@ You are given a circuit. Interact with the buttons to navigate a current from th
 
 ----
 
-Release-date: MonMon.MayMay.2017201720172017
+Publish-date: 2017-04-27
+
+----
+
+Update-date: 2019-02-07
 
 ----
 
@@ -32,11 +36,7 @@ Os: windows
 Sites:
 
 - 
-  type: official
-  url: http://www.cir-cuit.com/
-  featured: 'true'
-- 
-  type: sfml
+  type: steam
   url: >
     http://store.steampowered.com/app/614890/Cuit/
   featured: 'true'

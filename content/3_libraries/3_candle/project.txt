@@ -18,7 +18,7 @@ Description: Candle is a SFML based C++ library that provides light, shadow cast
 
 ----
 
-Release-date: 
+Publish-date: 
 
 ----
 

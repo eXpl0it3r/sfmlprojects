@@ -18,7 +18,11 @@ Description: In this journey that mixes exploration, logic and platform sections
 
 ----
 
-Release-date: FriFri.MarMar.2017201720172017
+Publish-date: 2017-03-03
+
+----
+
+Update-date: 2017-08-03
 
 ----
 
@@ -29,10 +33,6 @@ Os: windows, macos
 Sites:
 
 - 
-  type: official
-  url: http://anoctonautodyssey.com/
-  featured: 'true'
-- 
   type: steam
   url: >
     http://store.steampowered.com/app/566320/An_Octonaut_Odyssey/
@@ -40,8 +40,12 @@ Sites:
 - 
   type: sfml
   url: >
-    https://en.sfml-dev.org/forums/index.php?topic=20115.0
+    https://en.sfml-dev.org/forums/index.php?topic=21630.0
   featured: 'true'
+- 
+  type: itch
+  url: >
+    https://octostudio.itch.io/anoctonautodyssey
 
 ----
 

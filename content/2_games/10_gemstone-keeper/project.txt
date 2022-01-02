@@ -22,29 +22,33 @@ Using an ASCII art aesthetic in its purest form, all visual assets are produced 
 
 ----
 
-Release-date: 
+Publish-date: 2017-03-31
 
 ----
 
-Os: windows, linux
+Update-date: 2019-04-09
+
+----
+
+Os: windows, linux, other
 
 ----
 
 Sites:
 
 - 
-  type: official
-  url: https://gamepopper.co.uk/
-  featured: 'true'
-- 
   type: steam
   url: >
-    http://store.steampowered.com/app/522080/Gemstone_Keeper/
+    https://store.steampowered.com/app/522080/Gemstone_Keeper/
   featured: 'true'
 - 
   type: switch
   url: >
     https://www.nintendo.com/games/detail/gemstone-keeper-switch/
+  featured: 'true'
+- 
+  type: official
+  url: https://gamepopper.co.uk/
   featured: 'true'
 - 
   type: sfml

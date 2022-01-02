@@ -18,7 +18,11 @@ Description: Dispersio 2 is a retro-styled metroidvania. As you progress through
 
 ----
 
-Release-date: ThuThu.JanJan.2021202120212021
+Publish-date: 2021-01-21
+
+----
+
+Update-date: 
 
 ----
 
@@ -35,6 +39,10 @@ Sites:
 - 
   type: official
   url: http://achpile.tk/dispersio2.php
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=22171.0
 
 ----
 

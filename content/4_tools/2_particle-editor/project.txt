@@ -24,7 +24,7 @@ The editor covers most of the features provided by the particle module from Thor
 
 ----
 
-Release-date: 
+Publish-date: 
 
 ----
 

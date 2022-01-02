@@ -18,7 +18,11 @@ Description: This Grand Life is a personal finance simulator where you create a 
 
 ----
 
-Release-date: TueTue.OctOct.2017201720172017
+Publish-date: 2018-04-17
+
+----
+
+Update-date: 2018-12-04
 
 ----
 
@@ -33,8 +37,13 @@ Sites:
   url: >
     https://store.steampowered.com/app/695600/This_Grand_Life/
 - 
+  type: itch
+  url: >
+    https://pokingwatergames.itch.io/this-grand-life
+- 
   type: official
-  url: https://pokingwatergames.com/
+  url: >
+    https://pokingwatergames.com/this-grand-life/
 - 
   type: sfml
   url: >

@@ -18,7 +18,11 @@ Description:
 
 ----
 
-Release-date: TueTue.OctOct.2017201720172017
+Publish-date: 2017-11-17
+
+----
+
+Update-date: 
 
 ----
 

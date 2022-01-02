@@ -23,10 +23,16 @@ tabs:
       description:
         label: Description
         type: textarea
-      release_date:
-        label: Release Date
+      publish_date:
+        label: Published Date
         type: date
-        format: DD.MM.YYYY
+        display: YYYY-MM-DD
+        width: 1/2
+      update_date:
+        label: Last Updated Date
+        type: date
+        display: YYYY-MM-DD
+        width: 1/2
       os:
         label: Supported OS
         type: checkboxes

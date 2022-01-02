@@ -18,7 +18,11 @@ Description: Re:creation is a top-down action adventure game in which you play a
 
 ----
 
-Release-date: 
+Publish-date: 
+
+----
+
+Update-date: 2019-05-08
 
 ----
 
@@ -45,7 +49,7 @@ Sites:
   featured: 'true'
 - 
   type: indiedb
-  url: http://www.indiedb.com/games/recreation
+  url: https://www.indiedb.com/games/recreation
   featured: 'false'
 
 ----

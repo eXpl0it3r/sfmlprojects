@@ -18,11 +18,15 @@ Description: An art-music-arcade game, inSynch is handcrafted and animated in st
 
 ----
 
-Release-date: 
+Publish-date: 2015-09-30
 
 ----
 
-Os: windows, macos, linux
+Update-date: 2016-01-23
+
+----
+
+Os: windows, macos, linux, android, ios
 
 ----
 
@@ -35,7 +39,7 @@ Sites:
 - 
   type: steam
   url: >
-    http://store.steampowered.com/app/343410/inSynch/
+    https://store.steampowered.com/app/343410/inSynch/
   featured: 'true'
 - 
   type: sfml

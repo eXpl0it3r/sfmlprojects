@@ -21,7 +21,11 @@ Every game is different from the other.
 
 ----
 
-Release-date: 
+Publish-date: 
+
+----
+
+Update-date: 2017-03-30
 
 ----
 
@@ -41,7 +45,7 @@ Sites:
     https://en.sfml-dev.org/forums/index.php?topic=21703.0
 - 
   type: indiedb
-  url: http://www.indiedb.com/games/takrog
+  url: https://www.indiedb.com/games/takrog
 
 ----
 

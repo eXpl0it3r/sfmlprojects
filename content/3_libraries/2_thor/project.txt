@@ -22,7 +22,7 @@ To use Thor, you need a compiler compliant to C++11, for example Visual Studio 2
 
 ----
 
-Release-date: 
+Publish-date: 
 
 ----
 

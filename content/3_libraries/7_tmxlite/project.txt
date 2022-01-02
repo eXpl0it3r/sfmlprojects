@@ -22,7 +22,7 @@ As the library contains no specific rendering functions some example projects ar
 
 ----
 
-Release-date: TueTue.NovNov.2016201620162016
+Publish-date: TueTue.NovNov.2016201620162016
 
 ----
 

@@ -18,11 +18,15 @@ Description: You are the AI in charge of Earth's final interstellar spaceship, t
 
 ----
 
-Release-date: SatSat.JulJul.2016201620162016
+Publish-date: 2016-07-23
 
 ----
 
-Os: windows, linux
+Update-date: 2020-10-01
+
+----
+
+Os: windows, linux, macos
 
 ----
 
@@ -35,7 +39,7 @@ Sites:
 - 
   type: steam
   url: >
-    http://store.steampowered.com/app/426290/The_Away_Team/
+    https://store.steampowered.com/app/426290/The_Away_Team_Lost_Exodus/
   featured: 'true'
 - 
   type: sfml

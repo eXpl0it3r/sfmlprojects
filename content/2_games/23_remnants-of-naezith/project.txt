@@ -22,11 +22,15 @@ It focuses on having freedom of movement, solid character control and not having
 
 ----
 
-Release-date: SunSun.FebFeb.2018201820182018
+Publish-date: 2018-02-05
 
 ----
 
-Os: windows, macos, linux
+Update-date: 2020-06-05
+
+----
+
+Os: windows, macos, linux, other
 
 ----
 
@@ -39,6 +43,10 @@ Sites:
   type: steam
   url: >
     https://store.steampowered.com/app/590590/Remnants_of_Naezith/
+- 
+  type: switch
+  url: >
+    https://www.nintendo.com/games/detail/remnants-of-naezith-switch/
 - 
   type: tigsource
   url: >

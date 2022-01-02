@@ -22,7 +22,11 @@ You set out promising your father to become someone, to make him proud but not a
 
 ----
 
-Release-date: MonMon.MarMar.2015201520152015
+Publish-date: 2015-02-13
+
+----
+
+Update-date: 2017-04-22
 
 ----
 
@@ -33,12 +37,12 @@ Os: windows, macos
 Sites:
 
 - 
-  type: official
-  url: http://www.pioneersgame.com/
-  featured: 'true'
-- 
   type: itch
   url: https://eigen.itch.io/pioneers
+  featured: 'true'
+- 
+  type: official
+  url: http://www.pioneersgame.com/
   featured: 'true'
 - 
   type: sfml
