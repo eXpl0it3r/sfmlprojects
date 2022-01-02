@@ -7,4 +7,21 @@ return [
             'active' => true
         ]
     ],
+    'link-map' => [
+        'official' => 'Website',
+        'steam' => 'Steam',
+        'sfml' => 'SFML Forum',
+        'github' => 'GitHub',
+        'tigsource' => 'TIGSource',
+        'itch' => 'itch.io',
+        'gog' => 'Good Old Games',
+        'indiedb' => 'IndieDB',
+        'gamejolt' => 'Game Jolt',
+        'bitbucket' => 'Bitbucket',
+        'gitlab' => 'GitLab',
+        'switch' => 'Nintendo Switch',
+        'google' => 'Play Store',
+        'apple' => 'App Store',
+        'kickstarter' => 'Kickstarter'
+    ],
 ];
