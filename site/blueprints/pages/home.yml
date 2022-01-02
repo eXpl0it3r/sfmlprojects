@@ -6,7 +6,7 @@ tabs:
     fields:
       brand_title:
         label: Brand Title
-        type:  text
+        type: text
       brand_logo:
         label: Brand Logo
         type: files
@@ -21,7 +21,7 @@ tabs:
 
       content_title:
         label: Content Title
-        type:  text
+        type: text
       content_text:
         label: Content
         type: textarea
@@ -35,9 +35,9 @@ tabs:
         type: text
         width: 1/4
       category_one_link:
-          label: Category Link
-          type: text
-          width: 1/4
+        label: Category Link
+        type: text
+        width: 1/4
       category_one_img:
         label: Category Image
         type: select
@@ -56,9 +56,9 @@ tabs:
         type: text
         width: 1/4
       category_two_link:
-          label: Category Link
-          type: text
-          width: 1/4
+        label: Category Link
+        type: text
+        width: 1/4
       category_two_img:
         label: Category Image
         type: select
@@ -77,9 +77,9 @@ tabs:
         type: text
         width: 1/4
       category_three_link:
-          label: Category Link
-          type: text
-          width: 1/4
+        label: Category Link
+        type: text
+        width: 1/4
       category_three_img:
         label: Category Image
         type: select
@@ -97,7 +97,7 @@ tabs:
         label: Twitter Title
         type: text
   seo:
-    labe: SEO
+    labe: SEO Overrides
     icon: search
     fields:
       seo_title:

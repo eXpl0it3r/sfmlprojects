@@ -2,7 +2,11 @@ Title: Pseuthe
 
 ----
 
-Author: 
+Author-name: Matt Marchant
+
+----
+
+Author-nick: fallahn
 
 ----
 
@@ -14,6 +18,40 @@ Description: Take on the role of a proterozoic plankton with the sole aim of sur
 
 ----
 
+Release-date: 
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Sites:
+
+- 
+  type: gamejolt
+  url: http://gamejolt.com/games/pseuthe/256275
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=18476.0
+  featured: 'true'
+- 
+  type: github
+  url: https://github.com/fallahn/pseuthe
+  featured: 'true'
+- 
+  type: official
+  url: https://trederia.blogspot.ch/
+  featured: 'false'
+- 
+  type: itch
+  url: https://fallahn.itch.io/pseuthe
+  featured: 'false'
+
+----
+
 Offical-site: https://trederia.blogspot.ch/
 
 ----
@@ -22,7 +60,7 @@ Steam:
 
 ----
 
-Forum-thread: https://en.sfml-dev.org/forums/index.php?topic=18476.0
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=18476.0
 
 ----
 
@@ -38,6 +76,10 @@ Indie-db:
 
 ----
 
+Gamejolt: http://gamejolt.com/games/pseuthe/256275
+
+----
+
 Github: https://github.com/fallahn/pseuthe
 
 ----
@@ -46,55 +88,19 @@ Bitbucket:
 
 ----
 
-Custom-link-one: 
-
-----
-
-Custom-link-two: 
-
-----
-
-Os: windows, macos, linux
-
-----
-
-Title-img: pseuthe-title.png
-
-----
-
-Screenshot-one: pseuthe-01.png
-
-----
-
-Screenshot-two: pseuthe-02.png
-
-----
-
-Screenshot-three: pseuthe-03.png
-
-----
-
-Author-name: Matt Styles
-
-----
-
-Author-nick: fallahn
-
-----
-
-Gamejolt: http://gamejolt.com/games/pseuthe/256275
-
-----
-
-Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=18476.0
-
-----
-
 Custom-link-one-label: 
 
 ----
 
+Custom-link-one: 
+
+----
+
 Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
 
 ----
 
@@ -110,7 +116,27 @@ Brief-third: github
 
 ----
 
-Release-date: 2015-06-30
+Title-img:
+
+- pseuthe-title.png
+
+----
+
+Screenshot-one:
+
+- pseuthe-01.png
+
+----
+
+Screenshot-two:
+
+- pseuthe-02.png
+
+----
+
+Screenshot-three:
+
+- pseuthe-03.png
 
 ----
 
@@ -131,3 +157,19 @@ Youtube:
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Author: 
+
+----
+
+Forum-thread: https://en.sfml-dev.org/forums/index.php?topic=18476.0

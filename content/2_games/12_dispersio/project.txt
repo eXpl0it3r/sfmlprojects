@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Dispersio
 
 ----
@@ -22,7 +18,7 @@ Description: After a disastrous geological experiment, the Earth was ruptured in
 
 ----
 
-Release-date: 2016-12-02
+Release-date: FriFri.DecDec.2016201620162016
 
 ----
 
@@ -30,7 +26,22 @@ Os: windows, macos, linux
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: http://achpile.tk/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/563180/Dispersio/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=20444.0
+  featured: 'true'
 
 ----
 
@@ -46,7 +57,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20444.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -98,11 +109,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.jpg
+- title.jpg
 
 ----
 
@@ -126,10 +135,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: achpile
 
 ----
@@ -139,3 +144,27 @@ Youtube: https://www.youtube.com/channel/UCXqbxzSEOVf_wOobA2iTghw
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

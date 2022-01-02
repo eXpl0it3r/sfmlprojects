@@ -1,0 +1,170 @@
+Title: The Away Team
+
+----
+
+Author-name: Micheal Brune
+
+----
+
+Author-nick: Underflow Studio
+
+----
+
+Brief: In this interactive sci-fi adventure novel, you are the AI pilot of Earth's last interstellar ship, tasked with finding a home for your crew.
+
+----
+
+Description: You are the AI in charge of Earth's final interstellar spaceship, tasked with delivering your human crew to a suitable new home among the stars. The fate of previous ships is unknown--with a set of galactic maps to guide you, it's your job to decide which planets to visit, which crew to send down to the surface, and which choices they should make along the way. You are humanity's last hope.
+
+----
+
+Release-date: SatSat.JulJul.2016201620162016
+
+----
+
+Os: windows, linux
+
+----
+
+Sites:
+
+- 
+  type: official
+  url: https://awayteam.space/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/426290/The_Away_Team/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=20524.0
+  featured: 'true'
+
+----
+
+Offical-site: https://awayteam.space/
+
+----
+
+Steam: http://store.steampowered.com/app/426290/The_Away_Team/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20524.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Title-img:
+
+- title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=CMxtSoxraXg
+
+----
+
+Video-two: 
+
+----
+
+Twitter: underflowstudio
+
+----
+
+Youtube: https://www.youtube.com/channel/UCNFNyx9Eet0EtOy61_IqWvg
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

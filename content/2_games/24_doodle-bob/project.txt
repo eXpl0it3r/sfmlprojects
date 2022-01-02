@@ -1,0 +1,170 @@
+Title: Doodle Bob
+
+----
+
+Author-name: Matt Styles
+
+----
+
+Author-nick: fallahn
+
+----
+
+Brief: DoodleBob is a cross between Little Computer People and perhaps Tamagotchi.
+
+----
+
+Description: Carefully hand drawn, DoodleBob is your very own virtual pet. Care for Bob (and his cat Bella) by keeping him fed and entertained by checking in on them regularly and making sure they have all the food, water and entertainment they need. Play games with Bob to help him earn more money to spend (but don't accidentally lose it!) as Bob only gets paid once every 7 of the real-time day/night cycles. When you're not curating Bob, let him entertain you as he plays piano, watches TV, listens to music or fastidiously does the housework against the background of gentle traffic sounds, soft rainfall and the mesmerising ticking of the clock. Don't like Bob's music? Then simply replace the files in the music folder with your own, and Bob will update his playlist. Don't leave him unattended for too long, however, lest the poor soul expires...
+
+----
+
+Release-date: SunSun.FebFeb.2017201720172017
+
+----
+
+Os: windows, linux
+
+----
+
+Sites:
+
+- 
+  type: gamejolt
+  url: >
+    https://gamejolt.com/games/doodlebob/256272
+- 
+  type: itch
+  url: https://fallahn.itch.io/doodlebob
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=21503.0
+- 
+  type: official
+  url: https://trederia.blogspot.ch/
+
+----
+
+Offical-site: https://trederia.blogspot.ch/
+
+----
+
+Steam: 
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=21503.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: https://fallahn.itch.io/doodlebob
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: https://gamejolt.com/games/doodlebob/256272
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: gamejolt
+
+----
+
+Brief-second: sfml_forum
+
+----
+
+Brief-third: offical_site
+
+----
+
+Title-img:
+
+- title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=1AMmD22Osdg
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

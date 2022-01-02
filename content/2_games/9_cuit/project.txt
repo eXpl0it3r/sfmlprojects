@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: CUIT
 
 ----
@@ -18,14 +14,14 @@ Brief: In CUIT, it is only you and your mind. A challenging and relaxing puzzle 
 
 ----
 
-Description: 
+Description:
 
 In CUIT, it is only you and your mind. A challenging and relaxing puzzle experience, ready to test you from top to bottom.
 You are given a circuit. Interact with the buttons to navigate a current from the battery to a special target - Just make sure to avoid all the explosives, or you will have to start all over again. Sounds easy? Try it. And guess again.
 
 ----
 
-Release-date: 2017-05-01
+Release-date: MonMon.MayMay.2017201720172017
 
 ----
 
@@ -33,7 +29,22 @@ Os: windows
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: http://www.cir-cuit.com/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    http://store.steampowered.com/app/614890/Cuit/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=21896.0
+  featured: 'true'
 
 ----
 
@@ -49,7 +60,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=21896.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -101,11 +112,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.jpg
+- title.jpg
 
 ----
 
@@ -129,10 +138,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: MykonCodes
 
 ----
@@ -142,3 +147,27 @@ Youtube: https://www.youtube.com/channel/UC3MI1Va1aLfg4iVJ9oROqtg
 ----
 
 Facebook: https://www.facebook.com/CuitTheGame/
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

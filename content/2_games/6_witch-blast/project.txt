@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Witch Blast
 
 ----
@@ -30,7 +26,22 @@ Os: windows, macos, linux
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=14965.0
+  featured: 'true'
+- 
+  type: github
+  url: >
+    https://github.com/Cirrus-Minor/witchblast
+  featured: 'true'
+- 
+  type: indiedb
+  url: http://www.indiedb.com/games/witch-blast
+  featured: 'false'
 
 ----
 
@@ -46,7 +57,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=14965.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -98,11 +109,9 @@ Brief-third:
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: witch-blast-title.png
+- witch-blast-title.png
 
 ----
 
@@ -126,12 +135,36 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: 
 
 ----
 
 Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

@@ -1,11 +1,3 @@
-Previewfiles: 
-
-----
-
-Project-infos: 
-
-----
-
 Title: Particle Editor
 
 ----
@@ -22,7 +14,7 @@ Brief: Particle editor for SFML/Thor based applications
 
 ----
 
-Description: 
+Description:
 
 The editor covers most of the features provided by the particle module from Thor. There is also support for:
 
@@ -40,7 +32,16 @@ Os: windows
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: github
+  url: >
+    https://github.com/Jakobzzz/ParticleEditor
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=24403.0
 
 ----
 
@@ -108,11 +109,9 @@ Brief-third:
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.png
+- title.png
 
 ----
 
@@ -136,10 +135,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: 
 
 ----
@@ -149,3 +144,31 @@ Youtube:
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Previewfiles: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

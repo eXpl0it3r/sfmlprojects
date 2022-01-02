@@ -1,0 +1,166 @@
+Title: Postmortem
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Koobazaur
+
+----
+
+Brief: Postmortem: One Must Die - Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
+
+----
+
+Description:
+
+Narrative-adventure playing an Agent of Death who must take ONE life that could change the fate of a conflict-torn Nation!
+Think The Walking Dead meets Home and The Last Express, with a dash of To The Moon!
+
+----
+
+Release-date: ThuThu.AugAug.2013201320132013
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: official
+  url: https://postmortemgame.com/
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/263140/Postmortem_One_Must_Die_Extended_Cut/
+
+----
+
+Offical-site: http://postmortemgame.com/
+
+----
+
+Steam: http://store.steampowered.com/app/263140/Postmortem_One_Must_Die_Extended_Cut/
+
+----
+
+Sfml-forum: 
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: 
+
+----
+
+Title-img:
+
+- title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=5BVrIManI5M
+
+----
+
+Video-two: 
+
+----
+
+Twitter: PostmortemGame
+
+----
+
+Youtube: 
+
+----
+
+Facebook: https://www.facebook.com/Postmortem-273695166089442/
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

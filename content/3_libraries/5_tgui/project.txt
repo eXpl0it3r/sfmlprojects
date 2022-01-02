@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: TGUI
 
 ----
@@ -18,7 +14,7 @@ Brief: TGUI is an easy to use cross-platform c++ GUI library for SFML.
 
 ----
 
-Description: 
+Description:
 
 Texus' Graphical User Interface is easy to use, with only a few lines you can e.g. have a fully functional TextBox on your screen. The widgets can be created by just using colors or by using images, making the look very customizable.
 
@@ -36,7 +32,18 @@ Os: windows, macos, linux, android, ios, other
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: https://tgui.eu/
+- 
+  type: github
+  url: https://github.com/texus/TGUI
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=18901.0
 
 ----
 
@@ -104,11 +111,9 @@ Brief-third: github
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.png
+- title.png
 
 ----
 
@@ -132,10 +137,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: TexusGUI
 
 ----
@@ -145,3 +146,27 @@ Youtube:
 ----
 
 Facebook: https://www.facebook.com/TexusGUI
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

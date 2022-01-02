@@ -1,0 +1,167 @@
+Title: AchBall
+
+----
+
+Author-name: Alexander Fedosov
+
+----
+
+Author-nick: Achpile
+
+----
+
+Brief: AchBall is a casual game in which you hit goals by launching a ball. You score extra points for each time the ball bounces.
+
+----
+
+Description: 
+
+----
+
+Release-date: TueTue.OctOct.2017201720172017
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/739180/AchBall/
+- 
+  type: official
+  url: http://achpile.tk/achball.php
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=22570.0
+
+----
+
+Offical-site: http://achpile.tk/
+
+----
+
+Steam: https://store.steampowered.com/app/739180/AchBall/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=22570.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: steam
+
+----
+
+Brief-second: offical_site
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Title-img:
+
+- title.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=CUZGqqZisF8
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

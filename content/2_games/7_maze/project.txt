@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Maze
 
 ----
@@ -22,7 +18,7 @@ Description: Dare through the creepy corridors of the mazes, but keep your guard
 
 ----
 
-Release-date: 2014-09-06
+Release-date: 
 
 ----
 
@@ -30,7 +26,26 @@ Os: android
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: google
+  url: >
+    https://play.google.com/store/apps/details?id=com.minimalstudio.maze
+  featured: 'true'
+- 
+  type: official
+  url: http://www.minimal-studio.at/
+  featured: 'false'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=15757.0
+  featured: 'true'
+- 
+  type: indiedb
+  url: http://www.indiedb.com/games/maze-escape
+  featured: 'true'
 
 ----
 
@@ -46,7 +61,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=15757.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -98,11 +113,9 @@ Brief-third: indie_db
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: maze-title.png
+- maze-title.png
 
 ----
 
@@ -126,10 +139,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: 
 
 ----
@@ -139,3 +148,27 @@ Youtube: https://www.youtube.com/channel/UCeonLMuMH-mfbzJ36BN5YgA
 ----
 
 Facebook: https://www.facebook.com/minimalStudioAT
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

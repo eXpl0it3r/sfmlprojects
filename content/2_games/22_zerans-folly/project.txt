@@ -1,0 +1,171 @@
+Title: Zeran's Folly
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Myroid
+
+----
+
+Brief: Story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor.
+
+----
+
+Description: Zeran's Folly is a story-driven action-adventure with fluid melee combat, four unique playable characters, and a twisted sense of humor. Even with murderers and thieves as your allies, the caustic landscape from the fiery pits of Dorfhole to the darkest depths of Pukamake Grotto will rip you apart if you're not at your best.
+
+----
+
+Release-date: FriFri.OctOct.2017201720172017
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: official
+  url: http://zeransfolly.com/
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/665030/Zerans_Folly/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=15600.0
+- 
+  type: indiedb
+  url: >
+    http://www.indiedb.com/games/zerans-folly
+
+----
+
+Offical-site: http://zeransfolly.com/
+
+----
+
+Steam: http://store.steampowered.com/app/665030/Zerans_Folly/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=15600.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: http://www.indiedb.com/games/zerans-folly
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Title-img:
+
+- title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=CwrwqZDnbgo
+
+----
+
+Video-two: 
+
+----
+
+Twitter: myroidtc
+
+----
+
+Youtube: https://www.youtube.com/channel/UCmqhs8-Hzi9oUMlp40emXFg
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

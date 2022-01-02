@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Gemstone Keeper
 
 ----
@@ -18,7 +14,7 @@ Brief: Gemstone Keeper is a twin stick shooter where avid explorers go down into
 
 ----
 
-Description: 
+Description:
 
 Gemstone Keeper is a twin stick shooter where avid explorers go down into the Cistershire Caverns, a large, dangerous and mysterious set of caves and caverns that are filled with vast amounts of rare and valuable gemstones. This game combines the quick and reactionary feel of a shooter with the exploration and decision making of classic roguelikes.
 
@@ -26,7 +22,7 @@ Using an ASCII art aesthetic in its purest form, all visual assets are produced 
 
 ----
 
-Release-date: 2017-03-31
+Release-date: 
 
 ----
 
@@ -34,7 +30,27 @@ Os: windows, linux
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: https://gamepopper.co.uk/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/522080/Gemstone_Keeper/
+  featured: 'true'
+- 
+  type: switch
+  url: >
+    https://www.nintendo.com/games/detail/gemstone-keeper-switch/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=20294.0
+  featured: 'false'
 
 ----
 
@@ -50,7 +66,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20294.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -102,11 +118,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.jpg
+- title.jpg
 
 ----
 
@@ -130,10 +144,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: gamepopper
 
 ----
@@ -143,3 +153,27 @@ Youtube: https://www.youtube.com/channel/UCfUS6ZGiGR3ZEVt-rHbe8iQ
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

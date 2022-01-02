@@ -1,0 +1,160 @@
+Title: The Man in the Cape: Special Edition
+
+----
+
+Author-name: Anthony Nichols
+
+----
+
+Author-nick: Long Division LLC
+
+----
+
+Brief: The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon.
+
+----
+
+Description: In retaliation for using his roof as a city lookout point, The Man in the Cape is captured and left for dead in Mr. Granderson’s superhero elimination dungeon. To escape, the determined Capeman must blast his way past Granderson’s horde of malcontents.
+
+----
+
+Release-date: TueTue.OctOct.2017201720172017
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/706480/The_Man_in_the_Cape_Special_Edition/
+
+----
+
+Offical-site: http://www.longdivisiondev.com/
+
+----
+
+Steam: http://store.steampowered.com/app/706480/The_Man_in_the_Cape_Special_Edition/
+
+----
+
+Sfml-forum: 
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: steam
+
+----
+
+Brief-second: offical_site
+
+----
+
+Brief-third: 
+
+----
+
+Title-img:
+
+- title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=JdSZG8B0F7s
+
+----
+
+Video-two: 
+
+----
+
+Twitter: https://twitter.com/themaninthecape
+
+----
+
+Youtube: https://www.youtube.com/channel/UCvCMSRqYWLiynB5MHE5LcyQ
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

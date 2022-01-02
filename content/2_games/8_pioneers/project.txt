@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Pioneers
 
 ----
@@ -18,7 +14,7 @@ Brief: Pioneers is a turn-based exploration/adventure RPG.
 
 ----
 
-Description: 
+Description:
 
 Pioneers is a turn-based exploration/adventure RPG where you lead a party of travellers in search of treasure-rich temples, new tribes and ways to go down in history - ways to go beyond the horizon. To achieve all that you complete quests building up your reputation to become a sought out explorer by kings and commoners alike.
 
@@ -26,7 +22,7 @@ You set out promising your father to become someone, to make him proud but not a
 
 ----
 
-Release-date: 2015-03-02
+Release-date: MonMon.MarMar.2015201520152015
 
 ----
 
@@ -34,7 +30,26 @@ Os: windows, macos
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: http://www.pioneersgame.com/
+  featured: 'true'
+- 
+  type: itch
+  url: https://eigen.itch.io/pioneers
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=7980.0
+  featured: 'true'
+- 
+  type: tigsource
+  url: >
+    https://forums.tigsource.com/index.php?topic=25699.0
+  featured: 'false'
 
 ----
 
@@ -102,11 +117,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: pioneers-title.png
+- pioneers-title.png
 
 ----
 
@@ -130,10 +143,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: pioneersgame
 
 ----
@@ -143,3 +152,27 @@ Youtube: https://www.youtube.com/channel/UCYp9l89mjwAIDnq5RzM6opQ
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

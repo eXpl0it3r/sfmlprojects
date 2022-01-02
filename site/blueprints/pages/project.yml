@@ -6,7 +6,7 @@ tabs:
     fields:
       title:
         label: Title
-        type:  text
+        type: text
         required: true
       author_name:
         label: Author's Name
@@ -41,6 +41,39 @@ tabs:
     label: Links
     icon: url
     fields:
+      note:
+        label: Note
+        type: info
+        text: |
+          - The top three links will be shown on the project card
+          - The top link will be styled as primary button
+      sites:
+        label: Links
+        type: structure
+        fields:
+          type:
+            label: Site Type
+            type: select
+            width: 1/4
+            options:
+              official: Official Site
+              steam: Steam Store
+              sfml: SFML Forum
+              github: GitHub Repository
+              tigsource: TIGSource Forum
+              itch: itch.io Page
+              gog: Good Old Games
+              indiedb: IndieDB Page
+              gamejolt: Game Jolt
+              bitbucket: Bitbucket Repository
+              switch: Nintendo Switch Store
+              google: Play Store
+              apple: App Store
+              kickstarter: Kickstarter
+          url:
+            label: URL
+            type: url
+            width: 3/4
       offical_site:
         label: Official Site
         type: url
@@ -143,39 +176,48 @@ tabs:
   media:
     label: Media
     icon: image
-    fields:
-      title_img:
-        label: Title Image
-        type: files
-        required: true
-        query: page.images
-        multiple: false
-      screenshot_one:
-        label: Screenshot 1
-        type: files
+    columns:
+      images:
+        width: 2/3
+        type: fields
+        fields:
+          title_img:
+            label: Title Image
+            type: files
+            required: true
+            query: page.images
+            multiple: false
+          screenshot_one:
+            label: Screenshot 1
+            type: files
+            width: 1/3
+            query: page.images
+            multiple: false
+          screenshot_two:
+            label: Screenshot 2
+            type: files
+            width: 1/3
+            query: page.images
+            multiple: false
+          screenshot_three:
+            label: Screenshot 3
+            type: files
+            width: 1/3
+            query: page.images
+            multiple: false
+          video_one:
+            label: Video 1
+            type: url
+            width: 1/2
+          video_two:
+            label: Video 2
+            type: url
+            width: 1/2
+      files:
+        type: fields
         width: 1/3
-        query: page.images
-        multiple: false
-      screenshot_two:
-        label: Screenshot 2
-        type: files
-        width: 1/3
-        query: page.images
-        multiple: false
-      screenshot_three:
-        label: Screenshot 3
-        type: files
-        width: 1/3
-        query: page.images
-        multiple: false
-      video_one:
-        label: Video 1
-        type: url
-        width: 1/2
-      video_two:
-        label: Video 2
-        type: url
-        width: 1/2
+        sections:
+          files: true
   social:
     label: Social Media
     icon: twitter
@@ -190,7 +232,7 @@ tabs:
         label: Facebook
         type: url
   seo:
-    labe: SEO
+    label: SEO Overrides
     icon: search
     fields:
       seo_title:

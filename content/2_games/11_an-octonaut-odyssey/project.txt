@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: An Octonaut Odyssey
 
 ----
@@ -22,7 +18,7 @@ Description: In this journey that mixes exploration, logic and platform sections
 
 ----
 
-Release-date: 2017-03-03
+Release-date: FriFri.MarMar.2017201720172017
 
 ----
 
@@ -30,7 +26,22 @@ Os: windows, macos
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: http://anoctonautodyssey.com/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/566320/An_Octonaut_Odyssey/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=20115.0
+  featured: 'true'
 
 ----
 
@@ -46,7 +57,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=20115.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -98,11 +109,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.jpg
+- title.jpg
 
 ----
 
@@ -126,10 +135,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: octodyssey
 
 ----
@@ -139,3 +144,27 @@ Youtube: https://www.youtube.com/channel/UCPoO81P39sCzeOcoivTXlLg
 ----
 
 Facebook: https://www.facebook.com/anoctonautodyssey
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

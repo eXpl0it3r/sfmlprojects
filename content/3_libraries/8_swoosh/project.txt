@@ -1,11 +1,3 @@
-Previewfiles: 
-
-----
-
-Project-infos: 
-
-----
-
 Title: Swoosh
 
 ----
@@ -34,7 +26,16 @@ Os: windows, macos, linux, android, ios
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: github
+  url: >
+    https://github.com/TheMaverickProgrammer/Swoosh
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=24688.0
 
 ----
 
@@ -102,11 +103,9 @@ Brief-third:
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: swoosh.png
+- swoosh.png
 
 ----
 
@@ -130,10 +129,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: swooshlib
 
 ----
@@ -143,3 +138,31 @@ Youtube:
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Previewfiles: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

@@ -13,7 +13,7 @@ You can do this by utilizing GitHub's ways of forking and creating pull requests
 
 I'll also hand out commit rights to people that seem eager to help an can follow these few rules:
 
-* For every non-trivial change a pull request needs to be created, so I or others can review the changes.
+- For every non-trivial change a pull request needs to be created, so I or others can review the changes.
 
 ## Local Development
 
@@ -30,26 +30,26 @@ git lfs checkout
 
 ### Configure
 
-* Make sure the directories `content/` and `media/` are writeable
-* Make sure the directories `assets/` and `content/` are readable
-* Adapt the `site/config/config.php.example` content to your needs and remove the `.example` extension
+- Make sure the directories `content/` and `media/` are writeable
+- Make sure the directories `assets/` and `content/` are readable
+- Adapt the `site/config/config.php.example` content to your needs and remove the `.example` extension
 
 That's basically it. From here on you can now start with the project files itself.
 
-**Notice:** Kirby requires a license to officially run a website, but it can be used locally or on a test server without restrictions.
+**Note:** Kirby requires a license to officially run a website, but it can be used locally or on a test server without restrictions.
 
 ## Dependencies
 
 ### Back-end
 
-* [Kirby Core](https://github.com/getkirby/kirby)
+- [Kirby Core](https://github.com/getkirby/kirby)
 
 ### Front-end
 
-* [Bootstrap](http://getbootstrap.com/)
-* [Jasny Boostrap](http://jasny.github.io/bootstrap/)
-* [Font Awesome](http://fontawesome.io/)
-* [jQuery](http://jquery.com/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Jasny Boostrap](http://jasny.github.io/bootstrap/)
+- [Font Awesome](http://fontawesome.io/)
+- [jQuery](http://jquery.com/)
 
 ## License
 

@@ -9,12 +9,12 @@ tabs:
         headline: Projects
         status: all
   seo:
-    label: SEO
+    label: SEO Overrides
     icon: search
     fields:
       seo_title:
         label: SEO Title
-        type:  text
+        type: text
       seo_description:
         label: SEO Description
         type: textarea

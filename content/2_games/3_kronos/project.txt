@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Kronos
 
 ----
@@ -22,11 +18,34 @@ Description: Kronos it's an Action, RPG, Puzzle, Roguelike game with lots of com
 
 ----
 
+Release-date: FriFri.FebFeb.2017201720172017
+
+----
+
 Os: windows
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: http://www.uroborostudio.com/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/562090/Kronos/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=18218.0
+  featured: 'true'
+- 
+  type: indiedb
+  url: http://www.indiedb.com/games/kronos
+  featured: 'false'
 
 ----
 
@@ -42,7 +61,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=18218.0
 
 ----
 
-Tig-source:
+Tig-source: 
 
 ----
 
@@ -94,11 +113,9 @@ Brief-third: sfml_forum
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: kronos-title.jpg
+- kronos-title.jpg
 
 ----
 
@@ -122,10 +139,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: UroboroStudio
 
 ----
@@ -134,4 +147,28 @@ Youtube: https://www.youtube.com/channel/UC1EKO_S2M2fY0WdRK8X_S5Q
 
 ----
 
-Release-date: 2017-02-03
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

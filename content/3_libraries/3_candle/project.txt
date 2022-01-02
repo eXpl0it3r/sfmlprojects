@@ -26,6 +26,17 @@ Os:
 
 ----
 
+Sites:
+
+- 
+  type: github
+  url: https://github.com/miguelmj/candle
+- 
+  type: official
+  url: https://miguelmj.github.io/Candle/
+
+----
+
 Offical-site: https://miguelmj.github.io/Candle/
 
 ----

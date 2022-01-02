@@ -1,0 +1,169 @@
+Title: inSynch
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Them Games Studio
+
+----
+
+Brief: An art-music-arcade game, inSynch is handcrafted and animated in stop motion.
+
+----
+
+Description: An art-music-arcade game, inSynch is handcrafted and animated in stop motion. The game jumps and hops between meditative compositions and devilishly hard time-attack challenges!
+
+----
+
+Release-date: 
+
+----
+
+Os: windows, macos, linux
+
+----
+
+Sites:
+
+- 
+  type: official
+  url: http://www.themgames.net/insynch/
+  featured: 'true'
+- 
+  type: steam
+  url: >
+    http://store.steampowered.com/app/343410/inSynch/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=14986.0
+
+----
+
+Offical-site: http://www.themgames.net/insynch/
+
+----
+
+Steam: http://store.steampowered.com/app/343410/inSynch/
+
+----
+
+Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=14986.0
+
+----
+
+Tig-source: 
+
+----
+
+Itch-io: 
+
+----
+
+Indie-db: 
+
+----
+
+Gamejolt: 
+
+----
+
+Github: 
+
+----
+
+Bitbucket: 
+
+----
+
+Custom-link-one-label: 
+
+----
+
+Custom-link-one: 
+
+----
+
+Custom-link-two-label: 
+
+----
+
+Custom-link-two: 
+
+----
+
+Brief-main: offical_site
+
+----
+
+Brief-second: steam
+
+----
+
+Brief-third: sfml_forum
+
+----
+
+Title-img:
+
+- title.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: https://www.youtube.com/watch?v=hPPdc_tav8M
+
+----
+
+Video-two: 
+
+----
+
+Twitter: ThemGames
+
+----
+
+Youtube: https://www.youtube.com/channel/UCJGMemAMxNrYbFfLhftfOvQ
+
+----
+
+Facebook: https://www.facebook.com/themgamesstudio
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

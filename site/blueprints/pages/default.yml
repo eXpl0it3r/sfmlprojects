@@ -6,12 +6,12 @@ tabs:
     fields:
       intro:
         label: Intro
-        type:  textarea
+        type: textarea
       text:
         label: Text
-        type:  textarea
+        type: textarea
   seo:
-    labe: SEO
+    label: SEO Overrides
     icon: search
     fields:
       seo_title:

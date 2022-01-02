@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Selba Ward
 
 ----
@@ -30,7 +26,15 @@ Os: windows, macos, linux, android, ios
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: github
+  url: https://github.com/Hapaxia/SelbaWard
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=19496.0
 
 ----
 
@@ -46,7 +50,7 @@ Sfml-forum: https://en.sfml-dev.org/forums/index.php?topic=19496.0
 
 ----
 
-Tgi-source: 
+Tig-source: 
 
 ----
 
@@ -98,11 +102,9 @@ Brief-third:
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: title.jpg
+- title.jpg
 
 ----
 
@@ -126,10 +128,6 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: Hapaxiation
 
 ----
@@ -139,3 +137,31 @@ Youtube: https://www.youtube.com/channel/UC2s-i85Jc8nyObC0q5uX5ow
 ----
 
 Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Tgi-source: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

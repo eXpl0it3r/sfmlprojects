@@ -1,7 +1,3 @@
-Project-infos: 
-
-----
-
 Title: Re:creation
 
 ----
@@ -22,11 +18,35 @@ Description: Re:creation is a top-down action adventure game in which you play a
 
 ----
 
+Release-date: 
+
+----
+
 Os: 
 
 ----
 
-Project-links: 
+Sites:
+
+- 
+  type: official
+  url: >
+    https://eliasdaler.github.io/re-creation/
+  featured: 'true'
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=18062.0
+  featured: 'true'
+- 
+  type: tigsource
+  url: >
+    https://forums.tigsource.com/index.php?topic=49336.0
+  featured: 'true'
+- 
+  type: indiedb
+  url: http://www.indiedb.com/games/recreation
+  featured: 'false'
 
 ----
 
@@ -94,11 +114,9 @@ Brief-third: tig_source
 
 ----
 
-Project-media: 
+Title-img:
 
-----
-
-Title-img: re-creation-title.png
+- re-creation-title.png
 
 ----
 
@@ -122,12 +140,36 @@ Video-two:
 
 ----
 
-Project-social: 
-
-----
-
 Twitter: 
 
 ----
 
 Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 
