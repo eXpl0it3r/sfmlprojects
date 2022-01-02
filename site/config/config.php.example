@@ -17,6 +17,7 @@ return [
         'gog' => 'Good Old Games',
         'indiedb' => 'IndieDB',
         'gamejolt' => 'Game Jolt',
+        'humblebundle' => 'Humble',
         'bitbucket' => 'Bitbucket',
         'gitlab' => 'GitLab',
         'switch' => 'Nintendo Switch',

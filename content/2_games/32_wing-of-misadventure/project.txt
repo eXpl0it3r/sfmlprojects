@@ -1,0 +1,107 @@
+Title: Wing of Misadventure
+
+----
+
+Author-name: Allyson de Souza Bacon
+
+----
+
+Author-nick: 4Tabern
+
+----
+
+Brief: Wing of Misadventure is the definitive Massive Multiplayer Online RPG experience, featuring a unique art style, carefully crafted loot system and fast paced combat style!
+
+----
+
+Description: Wing of Misadventure is the definitive Massive Multiplayer Online RPG experience, featuring a unique art style, carefully crafted loot system and fast paced combat style, making it the perfect match for hardcore and casual gamers alike!
+
+----
+
+Publish-date: 2020-12-04
+
+----
+
+Update-date: 2021-06-18
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/677810/Wing_of_Misadventure/
+- 
+  type: official
+  url: https://wingofmisadventure.4tabern.com/
+- 
+  type: indiedb
+  url: >
+    https://www.indiedb.com/games/wing-of-misadventure
+
+----
+
+Title-img:
+
+- wing-of-misadventure.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: wingofmisad
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
+
+----
+
+Project-infos: 
+
+----
+
+Project-links: 
+
+----
+
+Project-media: 
+
+----
+
+Project-social: 

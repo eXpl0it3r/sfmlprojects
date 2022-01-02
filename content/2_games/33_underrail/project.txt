@@ -1,0 +1,94 @@
+Title: UnderRail
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Stygian Software
+
+----
+
+Brief: Underrail is an old school turn-based isometric indie role playing game that focuses on exploration and combat.
+
+----
+
+Description: 
+
+----
+
+Publish-date: 2015-12-18
+
+----
+
+Update-date: 2021-06-30
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/250520/UnderRail/
+- 
+  type: official
+  url: https://stygiansoftware.com/
+- 
+  type: gog
+  url: https://www.gog.com/game/underrail
+- 
+  type: humblebundle
+  url: >
+    https://www.humblebundle.com/store/underrail
+
+----
+
+Title-img:
+
+- underrail.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
