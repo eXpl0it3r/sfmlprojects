@@ -1,0 +1,87 @@
+Title: Golden Spike
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: dschouhennes
+
+----
+
+Brief: A public transport simulation where you can create huge maps in realistic scale with free track shaping, station and timetables
+
+----
+
+Description: A public transport simulation where you can create huge maps in realistic scale with free track shaping, station and timetables
+
+----
+
+Publish-date: 
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: official
+  url: https://www.goldenspike.de/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=28262.0
+
+----
+
+Title-img:
+
+- goldenspike.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

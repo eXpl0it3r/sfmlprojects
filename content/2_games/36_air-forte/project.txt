@@ -1,0 +1,87 @@
+Title: Air Forte
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Blendo Games
+
+----
+
+Brief: Air Forte is a high-altitude game of math, vocabulary, and geography. Compete with friends or fly solo in the various arenas.
+
+----
+
+Description: Air Forte is a high-altitude game of math, vocabulary, and geography. Compete with friends or fly solo in the various arenas. Good luck, pilot!Key features:Play with friends: Up to four people can play Air Forte together. Find out who's the best pilot!
+
+----
+
+Publish-date: 2010-09-29
+
+----
+
+Update-date: 
+
+----
+
+Os: windows, macos
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/55020/Air_Forte/
+- 
+  type: official
+  url: https://blendogames.com/airforte/
+
+----
+
+Title-img:
+
+- airforte.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

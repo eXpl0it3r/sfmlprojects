@@ -1,0 +1,84 @@
+Title: Mow Problem
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Trederia
+
+----
+
+Brief: Mow Problem is a casual puzzle game featuring relaxing music designed to improve your logic and thought skills.
+
+----
+
+Description: Use a familiar block programming interface to efficiently guide your lawn mower across all the lawns, throughout the seasons. Mow Problem is a casual puzzle game featuring relaxing music designed to improve your logic and thought skills.
+
+----
+
+Publish-date: 2019-04-12
+
+----
+
+Update-date: 
+
+----
+
+Os: macos, windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1037140/Mow_Problem/
+
+----
+
+Title-img:
+
+- mowproblem.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

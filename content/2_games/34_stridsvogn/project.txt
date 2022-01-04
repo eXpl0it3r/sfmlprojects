@@ -1,0 +1,91 @@
+Title: Stridsvogn
+
+----
+
+Author-name: Lars
+
+----
+
+Author-nick: Lars
+
+----
+
+Brief: Stridsvogn : A top down tank game
+
+----
+
+Description:
+
+Wreak havoc as you battle up to three friends with exceedingly powerful weapons
+Use the fully destructible terrain to gain the upper hand
+Collect the crates to get the most powerful weapons and upgrades
+
+----
+
+Publish-date: 
+
+----
+
+Update-date: 2022-01-03
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: itch
+  url: https://larsgames.itch.io/stridsvogn
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=28374.0
+
+----
+
+Title-img:
+
+- stridsvogn.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

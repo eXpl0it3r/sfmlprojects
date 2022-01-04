@@ -1,0 +1,91 @@
+Title: At Odds
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: pancakespeople
+
+----
+
+Brief: It's in space, it's a 4X, it's an RTS, it's a space 4X RTS.
+
+----
+
+Description: It's in space, it's a 4X, it's an RTS, it's a space 4X RTS.
+
+----
+
+Publish-date: 
+
+----
+
+Update-date: 2021-12-27
+
+----
+
+Os: windows, linux
+
+----
+
+Sites:
+
+- 
+  type: itch
+  url: https://peoplepancakes.itch.io/at-odds
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=28135.0
+- 
+  type: github
+  url: >
+    https://github.com/pancakespeople/At-Odds
+
+----
+
+Title-img:
+
+- atodds.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

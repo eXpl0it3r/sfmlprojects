@@ -1,0 +1,90 @@
+Title: Alkali
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Sleipner Games
+
+----
+
+Brief: Alkali is a precision platformer inspired by the chemical reactions of alkali metals.
+
+----
+
+Description: Alkali is a precision platformer inspired by the chemical reactions of alkali metals. Use your physical properties to propel yourself across a variety of dangerous levels, coupling traditional platforming mechanics with the mass-based mechanics of the alkalic main character. Collect chunks of metal to grow yourself, leap into the water for an explosive jump, or barely graze past a whirring saw with just a sliver of body remaining.
+
+----
+
+Publish-date: 2021-06-30
+
+----
+
+Update-date: 2021-12-17
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: itch
+  url: https://sleipner-games.itch.io/alkali
+- 
+  type: official
+  url: https://www.alkaligame.com/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=28186.0
+
+----
+
+Title-img:
+
+- alkali.png
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

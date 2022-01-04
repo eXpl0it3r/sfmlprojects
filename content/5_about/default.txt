@@ -12,7 +12,7 @@ Text:
 
 This project is made for the community by the community, as such we'll try to include everyone who wants to help out in any way.
 
-* The project is open source and anyone who has an idea is free to start up a discussion on IRC or Twitter and provide pull requests.
+* The project is open source and anyone who has an idea is free to start up a discussion on Discord or Twitter and provide pull requests.
 * We're always looking for people who want to help build out the current list of games, tools and libraries.
 
 If any of this sounds interesting to you, don't hesitate to get in touch!

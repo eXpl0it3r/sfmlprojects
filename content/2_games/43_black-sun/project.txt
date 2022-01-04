@@ -1,0 +1,88 @@
+Title: Black Sun
+
+----
+
+Author-name: John Mrziglod
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Fly your space ship through a 2D sci-fi world. Fight real-time space battles, upgrade your vessel and trade rare resources. And text with your AI assistant Hopper.
+
+----
+
+Description: Fly your space ship through a 2D sci-fi world. Fight real-time space battles, upgrade your vessel and trade rare resources. And if you get bored on the way, text with your AI assistant Hopper. She will know what to do.
+
+----
+
+Publish-date: 
+
+----
+
+Update-date: 
+
+----
+
+Os: 
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1670930/Black_Sun/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=28358.0
+
+----
+
+Title-img:
+
+- blacksun.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

@@ -1,0 +1,88 @@
+Title: Open Hexagon
+
+----
+
+Author-name: Vittorio Romeo
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Become the best and climb the leaderboards in Open Hexagon, a fast-paced adrenalinic arcade game that's easy to learn but hard to master!
+
+----
+
+Description: Four buttons, one goal: survive. Are you ready for a real challenge? -- Become the best and climb the leaderboards in Open Hexagon, a fast-paced adrenalinic arcade game that's easy to learn but hard to master!
+
+----
+
+Publish-date: 2021-11-02
+
+----
+
+Update-date: 2021-11-19
+
+----
+
+Os: windows, linux
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1358090/Open_Hexagon/
+- 
+  type: github
+  url: >
+    https://github.com/vittorioromeo/SSVOpenHexagon
+
+----
+
+Title-img:
+
+- openhexagon.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

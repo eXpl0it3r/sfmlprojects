@@ -1,0 +1,87 @@
+Title: K Station
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Maya Games
+
+----
+
+Brief: You are Maya, a lab assistant, trying to find a way out as she weaves her way through the altered lives of the friends and colleagues that remain.
+
+----
+
+Description: It's New Year's Day, 2319, and the happy denizens of K Station are disappearing, one at a time. You are Maya, a lab assistant, trying to find a way out as she weaves her way through the altered lives of the friends and colleagues that remain.
+
+----
+
+Publish-date: 2016-06-15
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/471720/K_Station/
+- 
+  type: sfml
+  url: 'https://en.sfml-dev.org/forums/index.php?topic=27956.msg175688#msg175688'
+
+----
+
+Title-img:
+
+- kstation.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

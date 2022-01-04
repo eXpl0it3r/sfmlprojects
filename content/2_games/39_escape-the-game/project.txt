@@ -1,0 +1,84 @@
+Title: Escape the Game
+
+----
+
+Author-name: Simon Fredholm
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Kevin is fed up with his game. Follow him in this atmospheric, dark and funny journey and fulfill his dreams. Is it even possible to escape?
+
+----
+
+Description: Kevin is fed up with his game. Follow him in this atmospheric, dark and funny journey and fulfill his dreams. Is it even possible to escape?
+
+----
+
+Publish-date: 2016-10-11
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/542310/Escape_the_Game/
+
+----
+
+Title-img:
+
+- escapethegame.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

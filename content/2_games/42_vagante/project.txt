@@ -1,0 +1,91 @@
+Title: Vagante
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: Nuke Nine
+
+----
+
+Brief: Vagante is an action-packed platformer that features permanent death and procedurally generated levels.
+
+----
+
+Description: Vagante is an action-packed platformer that features permanent death and procedurally generated levels. Play cooperatively with friends both locally and online, or adventure solo in this challenging roguelike-inspired game.
+
+----
+
+Publish-date: 2018-02-22
+
+----
+
+Update-date: 
+
+----
+
+Os: linux, macos, windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/323220/Vagante/
+- 
+  type: official
+  url: http://vagantegame.com/
+- 
+  type: humblebundle
+  url: >
+    https://www.humblebundle.com/store/vagante
+
+----
+
+Title-img:
+
+- vagante.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
