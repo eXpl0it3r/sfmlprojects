@@ -1,0 +1,86 @@
+Title: Ascii the Brave Cat
+
+----
+
+Author-name: Workyrie Game Studio
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Ascii the Brave Cat is a retro-style 2D action game with awesome new mechanics, cute characters, and memorable gameplay
+
+----
+
+Description: Ascii the Brave Cat is a retro-style 2D action game with awesome new mechanics, cute characters, and memorable gameplay. Meet the never seen puzzles, collect upgrade items, fight creative funny bosses, and push yourself beyond the limit to save someone (or something) you love.
+
+----
+
+Publish-date: 2021-02-27
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1534930/Ascii_the_Brave_Cat/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=27940.0
+
+----
+
+Title-img: - asciithebravecat.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: workyrie
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

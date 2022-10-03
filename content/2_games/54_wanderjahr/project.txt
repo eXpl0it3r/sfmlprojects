@@ -1,0 +1,90 @@
+Title: Wanderjahr
+
+----
+
+Author-name: Workyrie Game Studio
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Wanderjahr is a JRPG with real time combat and an intriguing story
+
+----
+
+Description: Wanderjahr is a JRPG with real time combat and an intriguing story. “This universe, this reality, there’s a source code behind all of it. We’d know, we already found it.” “And with it, we will cleanse this reality of all evil.”
+
+----
+
+Publish-date: 
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/434860/Wanderjahr/
+- 
+  type: official
+  url: >
+    https://sites.google.com/a/workyrie.com/wanderhahr_press/
+- 
+  type: sfml
+  url: >
+    https://en.sfml-dev.org/forums/index.php?topic=27939.0
+
+----
+
+Title-img: - wanderjahr.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: workyrie
+
+----
+
+Youtube: https://www.youtube.com/channel/UC8UAkRuU5Nes_xEEM57a-GQ
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

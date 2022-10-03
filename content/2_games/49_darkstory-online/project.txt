@@ -1,0 +1,85 @@
+Title: DarkStory Online
+
+----
+
+Author-name: 
+
+----
+
+Author-nick: BraveWolf
+
+----
+
+Brief: Bring the past back to life and live a new story in DarkStory; It's an authentic MMORPG 2D inspired by classic old-school RPGs.
+
+----
+
+Description: Bring the past back to life and live a new story in DarkStory; It's an authentic MMORPG 2D inspired by classic old-school RPGs. With hundreds of gameplay hours, immerse yourself with this epic role experience.
+
+----
+
+Publish-date: 2020-05-23
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1020780/DarkStory_Online/
+- 
+  type: official
+  url: https://darkstory2d.com/
+
+----
+
+Title-img: - darkstoryonline.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: DarkStory2D
+
+----
+
+Youtube: https://www.youtube.com/channel/UCeT7emdH3Bx-w3-wrEjys_Q
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

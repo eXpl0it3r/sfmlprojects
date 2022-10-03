@@ -1,0 +1,85 @@
+Title: Behind the Horizon
+
+----
+
+Author-name: Jadawin Indie Games
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Epic role-playing game with a mystical story and with crafting, magic and farming.
+
+----
+
+Description: Epic role-playing game with a mystical story and with crafting, magic and farming. Plays in a living, simulated world, where plants, animals and the land evolve. Huge hand-drawn underground areas invite you to explore and fight against your own demons.
+
+----
+
+Publish-date: 2020-09-11
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1453430/Behind_the_Horizon/
+- 
+  type: official
+  url: https://www.jadawinindiegames.de/
+
+----
+
+Title-img: - behindthehorizon.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: https://www.youtube.com/channel/UC-prANTK0Nc_G6-AAl8PPOw
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

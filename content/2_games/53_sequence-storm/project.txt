@@ -1,0 +1,82 @@
+Title: SEQUENCE STORM
+
+----
+
+Author-name: SPECIAL MAGIC GAMES, LLC
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Free-to-play intense rhythm, racing, and adventure!
+
+----
+
+Description: Free-to-play intense rhythm, racing, and adventure! Play the story campaign, or hang out in the arcade. Play your way with a huge array of gameplay options. What's your rhythm style? Supports keyboard, gamepad, or arcade-style controllers.
+
+----
+
+Publish-date: 2018-12-21
+
+----
+
+Update-date: 
+
+----
+
+Os: 
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/630640/SEQUENCE_STORM/
+
+----
+
+Title-img: - sequencestorm.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: SEQUENCE_STORM
+
+----
+
+Youtube: https://www.youtube.com/channel/UCtfd9bl6LwWiaURxX634hRw
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

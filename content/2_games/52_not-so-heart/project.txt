@@ -1,0 +1,82 @@
+Title: Not So Heart
+
+----
+
+Author-name: Fewjix
+
+----
+
+Author-nick: 
+
+----
+
+Brief: Not So Heart is a retro hardcore platformer. But it has a secret. Don't try to fix anything.
+
+----
+
+Description: Not So Heart is a retro hardcore platformer. But it has a secret. Don't try to fix anything.
+
+----
+
+Publish-date: 2019-07-11
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1073620/Not_So_Heart/
+
+----
+
+Title-img: - notsoheart.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: 
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 

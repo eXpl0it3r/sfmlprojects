@@ -1,0 +1,82 @@
+Title: Mole Game
+
+----
+
+Author-name: Joel D.
+
+----
+
+Author-nick: Joel
+
+----
+
+Brief: You are a Mole. Collect sunflowers throughout the year and achieve serenity.
+
+----
+
+Description: You are a Mole. Collect sunflowers throughout the year and achieve serenity.
+
+----
+
+Publish-date: 2020-01-31
+
+----
+
+Update-date: 
+
+----
+
+Os: windows
+
+----
+
+Sites:
+
+- 
+  type: steam
+  url: >
+    https://store.steampowered.com/app/1158410/Mole_Game/
+
+----
+
+Title-img: - molegame.jpg
+
+----
+
+Screenshot-one: 
+
+----
+
+Screenshot-two: 
+
+----
+
+Screenshot-three: 
+
+----
+
+Video-one: 
+
+----
+
+Video-two: 
+
+----
+
+Twitter: GameMole
+
+----
+
+Youtube: 
+
+----
+
+Facebook: 
+
+----
+
+Seo-title: 
+
+----
+
+Seo-description: 
